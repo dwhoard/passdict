@@ -19,14 +19,15 @@ Curation of the supplied dictionary is not yet finished, so the number of availa
 ### Non-Secret Dictionary
 Although it seems like giving away the dictionary would lessen the security of passphrases drawn from it, it does not. Consider: when constructing a normal character-based password, you are using the same alphabet that everyone else knows.
 That is, the source for the building blocks of your password is known to everyone.
-The enhancements to security provided by a passphrase constructed from words stems from the following:
-1. The number of available building blocks (words) in the dictionary is very large (many thousands), whereas the number of characters in the alphabet is limited (less than 100, even including lower case and upper case letters, numbers 0-9, and all punctuation marks).
+The enhancements to security provided by a passphrase constructed from a dictionary of words stems from the following:
+1. The number of available building blocks (words) in the dictionary is very large (many thousands), whereas the number of characters in the alphabet is limited (less than 100, even when including lower case and upper case letters, numbers 0-9, and all punctuation marks).
 1. A passphrase constructed of words is easier to remember than a long, character-based "nonsense" password, which discourages practices such as choosing an easy to remember (short and/or non-random) password, or writing down the password in a convenient location.
 
 ### User-Supplied Dictionary
 You can supply your own dictionary file by naming it "passdict.txt" or changing the dictionary name in the script (variable "dictfile").
 The format of the dictionary file is a single column, one word per line.
 Lines preceded by a "#" will be ignored.
+Upper case letters are changed to lower case in the output.
 
 ## Command line arguments: 
 nw    = number of words to select (defaults to 3 if not provided)
@@ -41,7 +42,7 @@ python passdict.py 4 25
 ```
 
 ## Passphrase Entropy
-In additon to the randomly selected passphrase itself, the script outputs some information about passphrase/password entropy, which is related to the unpredicatbility (hence, security) of the passphrase.
+In additon to the randomly selected passphrase itself, the script outputs some information about passphrase/password entropy, which is related to the unpredictability (hence, security) of the passphrase.
 The passphrase entropy depends on both the length of the passphrase and the size of the character set from which it is constructed (i.e., the number of possible building blocks, such as words or letters).
 In general, the higher the entropy value, the more secure is the password/passphrase.
 
@@ -87,8 +88,8 @@ Equivalent password length using 95-character set = 6 characters
   (95-character set includes a-z, A-Z, 0-9, all punctuation marks and space)
 ```
 The three entropy values are:
-1. The entropy of the passphrase based on it being drawn from the number of words aailable in the dictionary file
-2. For comparison, the entropy of the passphrase if it was considered as a password of characters drawn from the loer case alphabet.
+1. The entropy of the passphrase based on it being drawn from the number of words available in the dictionary file.
+2. For comparison, the entropy of the passphrase if it was considered as a password of characters drawn from the lower case alphabet.
 3. Same as the previous entropy, but including the spaces between words in the passphrase as an additional alphabet character.
 
 The equivalent password length is the number of characters that would have to be included in a normal password (drawn from the indicated 95 character set) to obtain the same entropy as the passphrase generated here.
