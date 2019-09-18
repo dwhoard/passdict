@@ -13,7 +13,7 @@ All words shorter than 3 characters or longer than 8 characters were excluded.
 The remaining words were hand-selected to exclude archaic words, words with difficult spelling, and homonyms ("sound-alike" words).
 Some additional words not present in the original dictionary were added.
 
-## WARNING
+### WARNING
 Curation of the supplied dictionary is not yet finished, so the number of available words is relatively small. I do not recommend using this script to generate passphrases until the entire dictionary has been finished.
 
 ### Non-Secret Dictionary
@@ -21,7 +21,7 @@ Although it seems like giving away the dictionary would lessen the security of p
 That is, the source for the building blocks of your password is known to everyone.
 The enhancements to security provided by a passphrase constructed from words stems from the following:
 1. The number of available building blocks (words) in the dictionary is very large (many thousands), whereas the number of characters in the alphabet is limited (less than 100, even including lower case and upper case letters, numbers 0-9, and all punctuation marks).
-1. A passphrase constructed of words is easier to remember than a long, character-based "nonsense" password, which discourages practices such as choosing an easy to remember password, or writing down the password in a convenient location.
+1. A passphrase constructed of words is easier to remember than a long, character-based "nonsense" password, which discourages practices such as choosing an easy to remember (short and/or non-random) password, or writing down the password in a convenient location.
 
 ### User-Supplied Dictionary
 You can supply your own dictionary file by naming it "passdict.txt" or changing the dictionary name in the script (variable "dictfile").
@@ -41,7 +41,9 @@ python passdict.py 4 25
 ```
 
 ## Passphrase Entropy
-In additon to the randomly selected passphrase itself, the script outputs some information about passphrase/password entropy, which is related to the security of the passphrase.
+In additon to the randomly selected passphrase itself, the script outputs some information about passphrase/password entropy, which is related to the unpredicatbility (hence, security) of the passphrase.
+The passphrase entropy depends on both the length of the passphrase and the size of the character set from which it is constructed (i.e., the number of possible building blocks, such as words or letters).
+In general, the higher the entropy value, the more secure is the password/passphrase.
 
 The passphrase entropy (S) is calculated as follows:
 
@@ -59,7 +61,9 @@ N = total number of available characters/words
 
 log2 = the logarithm function with base 2; i.e., log2(2) = 1, log2(4) = 2, etc.
 
-In general, the higher the entropy value, the more secure is the password/passphrase.
+A passphrase with S bits of entropy has a total of 2\*\*S possible combinations (e.g., S = 40 bits is equivalent to 2\*\*40 = 1,099,511,627,776 possible combinations).
+Each additional bit of entropy doubles the number of possible combinations.
+On average, a brute force attacker would have to try half of the possible combinations before succeeding (which isn't to say that an attacker couldn't accidentally pick the right combination on the 2nd attempt, but it is equally likely that they pick the right combination on the 2nd to last attempt).
 
 ## Script Output
 Sample output from the script is shown below.
