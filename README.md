@@ -11,6 +11,7 @@ The original dictionary is Webster's Second International Dictionary (1934), whi
 in the macOS operating system.
 All words shorter than 3 characters or longer than 8 characters were excluded.
 The remaining words were hand-selected to exclude archaic words, words with difficult spelling, and homonyms ("sound-alike" words).
+American English spellings are used (e.g., "color" instead of "colour").
 Some additional words not present in the original dictionary were added.
 
 ### WARNING
