@@ -1,10 +1,6 @@
 # passdict.py
 
-# D. W. Hoard
-
-# v1.0 - 20190918
-
-# Randomly select words from a dictionary file to use as a pass phrase.
+# Randomly select words from a dictionary file to use as a passphrase.
 
 # Command line arguments: 
 #    nw    = number of words to select
@@ -16,9 +12,15 @@
 #     python passdict.py 4 25
 # 
 
+# D. W. Hoard
+
+# v1.0 - 20190918
+# v1.1 - 20191003: added extra shuffle of words list
+
 
 # import needed packages and routines
 import sys
+import random
 from random import SystemRandom
 from math import log2
 from math import ceil
@@ -49,6 +51,9 @@ with open(dictfile, 'r') as f:
         if not line.lstrip().startswith('#'):
             words.append(line.lstrip().rstrip('\n'))
 f.closed
+
+# Scramble list (extra layer of randomization)
+random.shuffle(words)
 
 # how many words in the dictionary?
 Nwords=len(words)
