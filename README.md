@@ -49,7 +49,7 @@ In general, the higher the entropy value, the more secure is the password/passph
 
 The passphrase entropy (S) is calculated as follows:
 
-S = log2(N)\*n
+S = n\*log2(N)
 
 if words/characters are allowed to repeat, or
 
