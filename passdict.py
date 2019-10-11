@@ -28,7 +28,7 @@ from math import ceil
 # DEFAULT VALUE: pick this many words in each set
 nw=3
 # DEFAULT VALUE: force word sets to have at least this many characters in total
-nmin=18
+nmin=11
 
 # dictionary file name
 dictfile = 'passdict.txt'

@@ -1,4 +1,4 @@
-### Version 20191003
+### Version 20191010
 # aal
 # aalii
 # aam
@@ -91,6 +91,7 @@
 # abducens
 # abducent
   abduct
+  abducted
   abductor
 # Abe
 # abeam
@@ -233,6 +234,7 @@
 # abrachia
 # abradant
   abrade
+  abraded
 # abrader
   Abraham
 # abraid
@@ -329,6 +331,7 @@
 # abusee
 # abuseful
 # abuser
+  abuses
 # abusion
 # abusious
   abusive
@@ -447,10 +450,14 @@
 # accresce
 # accretal
   accrete
+  accreted
+  accretes
 # accroach
   accrual
   accrue
+  accrued
 # accruer
+  accrues
 # accumber
   accuracy
   accurate
@@ -461,6 +468,7 @@
   accuse
   accused
   accuser
+  accuses
 # accusive
 # accustom
   ace
@@ -543,7 +551,9 @@
 # achete
 # acheweed
   achieve
+  achieved
   achiever
+  achieves
 # achigan
 # achilary
 # achill
@@ -697,6 +707,7 @@
   acquire
   acquired
 # acquirer
+  acquires
 # acquist
   acquit
 # Acrab
@@ -920,6 +931,7 @@
   additive
 # additory
   addle
+  addled
 # addlings
 # addlins
 # addorsed
@@ -982,8 +994,10 @@
 # Adhara
 # adharma
   adhere
+  adhered
 # adherent
 # adherer
+  adheres
   adhesion
   adhesive
 # adhibit
@@ -1026,6 +1040,7 @@
 # adjiger
   adjoin
   adjoined
+  adjoins
 # adjoint
   adjourn
 # adjudge
@@ -1034,6 +1049,7 @@
 # adjure
 # adjurer
   adjust
+  adjusted
 # adjuster
 # adjutage
   adjutant
@@ -1053,6 +1069,7 @@
   admire
   admired
   admirer
+  admires
   admiring
   admit
   admitted
@@ -1094,16 +1111,21 @@
 # adoptian
   adoption
   adoptive
+  adopts
   adorable
   adorably
 # adoral
 # adorally
 # adorant
   adore
+  adored
 # adorer
+  adores
 # Adoretus
   adorn
+  adorned
 # adorner
+  adorns
 # adossed
 # adoulie
 # adown
@@ -1179,6 +1201,7 @@
   advised
 # advisee
 # adviser
+  advises
 # advisive
 # advisor
   advisory
@@ -1327,6 +1350,7 @@
   affect
   affected
 # affecter
+  affects
 # affeer
 # affeerer
 # affeir
@@ -1341,7 +1365,9 @@
 # affinite
 # affinity
   affirm
+  affirmed
 # affirmer
+  affirms
   affix
 # affixal
 # affixer
@@ -1352,6 +1378,7 @@
 # afflux
 # afforce
   afford
+  affords
 # afforest
 # affray
 # affrayer
@@ -1395,7 +1422,7 @@
 # Africana
 # Afridi
 # Afrogaea
-  afront
+# afront
 # afrown
 # Afshah
 # Afshar
@@ -1546,6 +1573,7 @@
 # agitant
   agitate
   agitated
+  agitates
 # agitator
 # agitprop
 # agla
@@ -1611,6 +1639,7 @@
   agonize
   agonized
 # agonizer
+  agonizes
   agony
 # agora
 # agouara
@@ -1632,6 +1661,7 @@
   agreed
   agreeing
 # agreer
+  agrees
 # agrege
 # agrestal
 # agrestic
@@ -1754,6 +1784,7 @@
   aim
 # Aimak
 # aimara
+  aimed
 # Aimee
 # aimer
 # aimful
@@ -1761,6 +1792,7 @@
   aiming
   aimless
 # Aimore
+  aims
 # ainaleh
 # ainhum
 # ainoi
@@ -2146,6 +2178,7 @@
 # alerce
 # alerse
   alert
+  alerted
   alertly
   alerts
 # alesan
@@ -2431,7 +2464,9 @@
 # allotype
 # allover
   allow
+# allowed
 # allower
+  allows
 # alloxan
   alloy
 # alloyage
@@ -2442,6 +2477,8 @@
 # allthorn
 # alltud
   allude
+  alluded
+  alludes
   allure
 # allurer
   alluring
@@ -2762,6 +2799,7 @@
 # Amarth
 # amasesis
   amass
+  amassed
 # amasser
 # Amasta
 # amastia
@@ -2845,7 +2883,9 @@
 # ambuling
 # ambury
   ambush
+  ambushed
 # ambusher
+  ambushes
 # amchoor
 # ame
 # Amedeo
@@ -2865,6 +2905,7 @@
   amenably
   amend
 # amende
+  amended
 # amender
   amends
 # amene
@@ -3662,9 +3703,11 @@
 # annotine
   announce
   annoy
+  annoyed
 # annoyer
 # annoyful
   annoying
+  annoys
   annual
   annually
 # annuary
@@ -3688,6 +3731,7 @@
   anode
 # anodic
   anodize
+  anodized
 # Anodon
 # Anodonta
 # anodos
@@ -3772,8 +3816,9 @@
 # ansu
 # ansulate
   answer
-  answers
+  answered
 # answerer
+  answers
 # ant
 # Anta
 # anta
@@ -3868,6 +3913,7 @@
 # anticor
 # anticorn
 # anticous
+  antics
 # anticum
   antidote
 # antidrag
@@ -4297,6 +4343,7 @@
 # appellee
 # appellor
   append
+  appended
   appendix
 # appet
 # appete
@@ -4333,6 +4380,7 @@
 # appropre
   approval
   approve
+  approved
 # approver
   approves
 # appulse
@@ -4745,7 +4793,9 @@
 # Argovian
 # arguable
   argue
+  argued
 # arguer
+  argues
 # argufier
 # argufy
 # Argulus
@@ -4811,6 +4861,7 @@
 # arisard
   arise
   arisen
+  arises
 # arist
 # arista
 # aristate
@@ -4924,7 +4975,9 @@
   around
   arousal
   arouse
+  aroused
 # arouser
+  arouses
 # arow
 # aroxyl
 # arpeggio
@@ -4938,6 +4991,7 @@
   arrange
   arranged
 # arranger
+  arranges
 # arrant
 # arrantly
 # Arras
@@ -4956,6 +5010,7 @@
 # arrector
 # arrent
   arrest
+  arrested
 # arrestee
 # arrester
 # arrestor
@@ -5039,6 +5094,7 @@
   arterial
 # arterin
   artery
+  arteries
 # Artesian
 # artesian
 # artful
@@ -5326,7 +5382,9 @@
 # aspirata
   aspirate
   aspire
+  aspired
 # aspirer
+  aspires
   aspirin
   aspiring
 # aspish
@@ -5404,6 +5462,7 @@
 # assish
 # assishly
   assist
+  assisted
 # assister
 # assistor
 # assize
@@ -5747,9 +5806,11 @@
 # attacco
   attach
 # attache
-# attached
+  attached
 # attacher
+  attaches
   attack
+  attacked
   attacker
   attacks
 # Attacus
@@ -5757,7 +5818,9 @@
 # attagen
 # attaghan
   attain
+  attained
 # attainer
+  attains
 # attaint
 # Attalea
 # attaleh
@@ -5767,6 +5830,7 @@
 # attask
 # attemper
   attempt
+  attempts
   attend
 # attender
 # attent
@@ -6108,7 +6172,9 @@
 # avenalin
 # avener
   avenge
+  avenged
   avenger
+  avenges
   avenging
 # avenin
 # avenous
@@ -6137,6 +6203,7 @@
   averted
 # averter
 # Avertin
+  averting
 # Avery
 # Aves
 # Avesta
@@ -6181,7 +6248,10 @@
 # avocet
 # avodire
   avoid
+  avoided
 # avoider
+  avoiding
+  avoids
 # avolate
 # avouch
 # avoucher
@@ -6207,6 +6277,7 @@
 # awag
   await
 # awaiter
+  awaits
 # awakable
   awake
   awaken
@@ -6219,7 +6290,9 @@
 # awanting
 # awapuhi
   award
+  awarded
 # awarder
+  awarding
   awards
   aware
 # awaredom
@@ -6472,6 +6545,7 @@
 # Babbitt
 # babbitt
   babble
+  babbled
 # babbler
   babbling
 # babblish
@@ -6662,6 +6736,7 @@
   badge
 # badgeman
   badger
+  badgered
   badges
 # badgerer
 # badgerly
@@ -6875,6 +6950,7 @@
   balance
   balanced
 # balancer
+  balances
 # balander
 # balandra
 # balangay
@@ -7144,7 +7220,9 @@
 # banig
 # banilad
   banish
+  banished
 # banisher
+  banishes
   banister
 # Baniva
 # baniwa
@@ -7352,6 +7430,7 @@
 # barkpeel
 # barksome
 # barky
+  barks
 # barless
   barley
 # barling
@@ -7417,7 +7496,7 @@
 # barras
 # barrator
 # barratry
-# barred
+  barred
   barrel
 # barreled
 # barreler
@@ -7508,6 +7587,7 @@
   bases
   bash
 # bashaw
+  bashed
   bashful
 # Bashkir
 # bashlyk
@@ -7583,10 +7663,13 @@
 # Bastaard
 # Bastard
   bastard
+  bastards
 # bastardy
   baste
+  basted
 # basten
   baster
+  bastes
 # bastide
 # bastille
   basting
@@ -7697,6 +7780,7 @@
 # Batussi
 # Batwa
   batwing
+  batwings
 # batz
 # batzen
 # bauble
@@ -7830,7 +7914,7 @@
   beam
 # beamage
 # beambird
-# beamed
+  beamed
 # beamer
 # beamful
 # beamily
@@ -7986,6 +8070,7 @@
 # Beckie
 # beckiron
   beckon
+  beckoned
 # beckoner
 # Becky
 # beclad
@@ -8273,6 +8358,7 @@
 # begabled
 # begad
 # begall
+  began
 # begani
 # begar
 # begari
@@ -8300,6 +8386,7 @@
   begin
 # beginger
   beginner
+  begins
 # begird
 # begirdle
 # beglad
@@ -8357,6 +8444,8 @@
 # behap
 # behatted
   behave
+  behaved
+  behaves
   behavior
   behead
 # beheadal
@@ -8470,7 +8559,9 @@
   beliefs
 # belier
   believe
+  believed
   believer
+  believes
 # belight
 # beliked
 # Belili
@@ -8504,6 +8595,7 @@
 # Bellona
 # bellote
   bellow
+  bellowed
 # bellower
   bellows
   bellpull
@@ -8524,6 +8616,7 @@
 # Belone
   belong
 # belonger
+  belongs
 # belonid
 # belonite
 # belonoid
@@ -8584,6 +8677,7 @@
 # bemitred
 # bemix
   bemoan
+  bemoaned
 # bemoaner
 # bemoat
 # bemock
@@ -8774,6 +8868,8 @@
 # berascal
 # berat
   berate
+  berated
+  berates
 # berattle
 # beray
 # Berber
@@ -9103,6 +9199,7 @@
   betray
   betrayal
   betrayer
+  betrays
 # betread
 # betrend
 # betrim
@@ -9300,8 +9397,10 @@
 # bichy
 # bick
   bicker
+  bickered
 # bickerer
 # bickern
+  bickers
 # bicolor
 # bicone
 # biconic
@@ -9469,6 +9568,7 @@
 # bilith
 # bilithon
   bilk
+  bilked
 # bilker
 # Bill
   bill
@@ -9730,7 +9830,9 @@
   biscuit
   biscuits
   bisect
+  bisected
 # bisector
+  bisects
 # biserial
 # bisetose
 # bisetous
@@ -9777,7 +9879,7 @@
 # bitheism
 # biti
   biting
-# bitingly
+  bitingly
 # Bitis
 # bitless
 # bito
@@ -9887,9 +9989,10 @@
 # blamable
 # blamably
   blame
-# blamed
+  blamed
 # blameful
 # blamer
+  blames
   blaming
 # blan
 # blanc
@@ -9990,10 +10093,12 @@
 # blebby
 # Blechnum
 # bleck
+  bled
 # blee
   bleed
 # bleeder
   bleeding
+  bleeds
 # bleekbok
 # bleery
 # bleeze
@@ -10011,6 +10116,7 @@
   blenders
   blending
 # blendor
+  blends
 # blendure
 # blenniid
 # blennoid
@@ -10022,7 +10128,7 @@
 # blesbok
 # blesbuck
   bless
-# blessed
+  blessed
 # blesser
   blessing
 # blest
@@ -10111,13 +10217,15 @@
   bloom
 # bloomage
 # bloomer
-# bloomers
+  bloomers
 # bloomery
   blooming
 # bloomkin
+  blooms
 # bloomy
 # bloop
   blooper
+  bloopers
 # blooping
 # blore
 # blosmy
@@ -10126,9 +10234,11 @@
 # blossomy
   blot
   blotch
-# blotched
+  blotched
   blotchy
 # blotless
+  blots
+  blotted
   blotter
   blotting
   blotto
@@ -10155,10 +10265,11 @@
 # blowiron
 # blowlamp
 # blowline
-# blown
+  blown
 # blowoff
   blowout
 # blowpipe
+  blows
 # blowth
 # blowtube
   blowup
@@ -10233,7 +10344,11 @@
   blurred
 # blurrer
   blurry
+  blurs
   blurt
+  blurted
+  blurting
+  blurts
   blush
 # blusher
 # blushful
@@ -10260,6 +10375,7 @@
 # boarskin
 # boarwood
   boast
+  boasted
 # boaster
   boastful
   boasting
@@ -10291,7 +10407,7 @@
 # boba
 # bobac
 # Bobadil
-# bobbed
+  bobbed
 # bobber
 # bobbery
 # Bobbie
@@ -10362,7 +10478,7 @@
 # bodiment
   boding
 # bodingly
-  bodkin
+# bodkin
 # bodle
 # Bodleian
 # Bodo
@@ -10373,7 +10489,7 @@
 # bodyless
 # bodywise
 # bodywood
-# bodywork
+  bodywork
 # Boebera
 # Boeotian
 # Boeotic
@@ -10394,8 +10510,9 @@
   boggle
 # bogglebo
 # boggler
+  boggles
   boggy
-# boghole
+  boghole
 # bogie
 # bogieman
 # bogier
@@ -10446,6 +10563,7 @@
 # boilery
   boiling
 # boilover
+  boils
 # boily
 # Bois
 # boist
@@ -10508,6 +10626,7 @@
   bolt
 # boltage
 # boltant
+  bolted
 # boltel
 # bolter
   bolthead
@@ -10626,6 +10745,7 @@
 # bontebok
 # Bontok
   bonus
+  bonuses
 # bonxie
   bony
 # bonyfish
@@ -10654,7 +10774,7 @@
 # bookable
   bookcase
 # bookdom
-# booked
+  booked
 # booker
 # bookery
 # bookfold
@@ -10675,9 +10795,9 @@
 # bookman
   bookmark
 # bookmate
-# bookrack
-# bookrest
-# bookroom
+  bookrack
+  bookrest
+  bookroom
   books
   bookshop
 # bookward
@@ -10715,7 +10835,9 @@
 # boort
 # boose
   boost
+  boosted
   booster
+  boosting
 # boosy
   boot
 # bootboy
@@ -10841,7 +10963,9 @@
 # Borrelia
 # Borreria
   borrow
+  borrowed
   borrower
+  borrows
 # borsch
 # borscht
 # borsht
@@ -10883,7 +11007,7 @@
   boss
 # bossage
 # bossdom
-# bossed
+  bossed
 # bosser
   bosses
 # bosset
@@ -10977,7 +11101,8 @@
 # boulter
 # boun
   bounce
-# bouncer
+  bounced
+  bouncer
   bounces
   bouncing
   bound
@@ -10987,7 +11112,9 @@
 # bounder
   bounding
 # boundly
+  bounds
 # bountied
+  bounties
 # bountith
 # bountree
   bounty
@@ -11143,7 +11270,7 @@
 # brachial
 # brachium
 # brachysm
-# bracing
+  bracing
 # brack
   bracken
 # bracker
@@ -11177,6 +11304,7 @@
   brag
   braggart
 # braggat
+  bragged
 # bragger
 # braggery
 # bragget
@@ -11243,6 +11371,7 @@
 # Brandi
 # brandied
 # brandify
+  branding
 # brandise
   brandish
 # Brandon
@@ -11598,7 +11727,7 @@
 # broidery
 # broigne
   broil
-# broiler
+  broiler
   broiling
 # brokage
   broke
@@ -12007,6 +12136,7 @@
   bulge
 # bulger
   bulges
+  bulging
 # bulgy
 # bulimia
 # bulimiac
@@ -12040,6 +12170,7 @@
   bullet
 # bulleted
   bulletin
+  bullets
 # bullety
 # bullfist
 # bullfoot
@@ -12118,11 +12249,11 @@
   bun
 # Buna
 # buna
-### HERE - plurals
 # buncal
 # bunce
   bunch
 # buncher
+  bunches
 # bunchily
 # bunchy
 # buncombe
@@ -12132,6 +12263,7 @@
 # bunder
   bundle
 # bundler
+  bundles
 # bundlet
 # bundook
 # Bundu
@@ -12150,6 +12282,7 @@
 # bungfull
   bunghole
   bungle
+  bungled
 # bungler
 # bungling
 # bungo
@@ -12158,10 +12291,12 @@
 # bunion
   bunk
   bunker
+  bunkers
 # bunkery
 # bunkie
 # bunkload
 # bunko
+  bunks
 # bunkum
 # bunnell
 # bunny
@@ -12201,6 +12336,7 @@
 # burd
   burden
 # burdener
+  burdens
 # burdie
 # burdock
 # burdon
@@ -12222,6 +12358,7 @@
 # burghal
 # burgher
   burglar
+  burglars
   burglary
 # burgle
 # burgonet
@@ -12323,9 +12460,10 @@
   bush
 # bushbuck
   bushed
-# bushel
+  bushel
 # busheler
 # busher
+  bushes
 # bushful
 # bushi
 # bushily
@@ -12387,6 +12525,7 @@
 # butanone
 # butch
   butcher
+  butchers
   butchery
 # Bute
 # Butea
@@ -12467,9 +12606,11 @@
 # bygo
 # bygoing
   bygone
+  bygones
 # byhand
   bylaw
 # bylawman
+  bylaws
 # byname
 # Bynin
 # byon
@@ -12535,6 +12676,7 @@
 # cabasset
 # cabassou
   cabbage
+  cabbages
 # cabbagy
 # cabber
 # cabble
@@ -12548,6 +12690,7 @@
   cabin
 # Cabinda
   cabinet
+  cabins
 # cabio
 # Cabirean
 # Cabiri
@@ -12579,6 +12722,7 @@
 # cabrilla
 # cabriole
 # cabrit
+  cabs
 # cabstand
 # cabuya
 # Caca
@@ -12660,6 +12804,7 @@
 # Cadet
   cadet
 # cadetcy
+  cadets
 # cadette
 # cadew
 # cadge
@@ -12783,6 +12928,7 @@
 # Cajanus
 # cajeput
   cajole
+  cajoled
 # cajoler
   cajolery
   cajoling
@@ -12905,6 +13051,7 @@
 # callable
 # callant
 # callboy
+  called
   caller
 # callet
 # calli
@@ -12919,6 +13066,7 @@
   callous
   callow
 # callower
+  calls
 # Calluna
 # callus
   calm
@@ -13036,6 +13184,7 @@
   cameo
   camera
 # cameral
+  cameras
 # Camerata
 # camerate
 # camerier
@@ -13079,12 +13228,14 @@
 # camphory
 # Campine
 # campion
+  camping
 # cample
 # campo
 # Campodea
 # campody
 # campoo
 # camporee
+  camps
 # campshed
 # campshot
   campus
@@ -13126,6 +13277,7 @@
 # Canari
 # canari
 # Canarian
+  canaries
 # canarin
 # Canarium
 # Canarsee
@@ -13137,6 +13289,7 @@
 # Canberra
 # cancan
   cancel
+  canceled
 # canceler
 # cancelli
 # cancer
@@ -13246,6 +13399,7 @@
 # canoodle
 # Canopic
 # canopic
+  canopies
   Canopus
   canopy
 # canorous
@@ -13302,6 +13456,7 @@
 # canvassy
 # cany
   canyon
+  canyons
 # canzon
 # canzonet
 # caoba
@@ -13417,15 +13572,20 @@
   capsular
   capsule
 # capsuler
+  capsules
 # capsumin
   captain
 # captance
   caption
+  captions
 # captious
   captive
+  captives
   captor
+  captors
 # captress
   capture
+  captured
 # capturer
 # Capuan
 # capuche
@@ -13573,7 +13733,9 @@
 # carene
 # carer
   caress
+  caressed
 # caresser
+  caresses
 # carest
 # caret
 # Caretta
@@ -13740,6 +13902,7 @@
 # carroch
   carrot
 # carroter
+  carrots
 # carroty
 # carrow
 # Carry
@@ -13768,6 +13931,7 @@
   cartload
 # cartman
   carton
+  cartons
   cartoon
   cartoons
   carts
@@ -13782,6 +13946,7 @@
 # caruncle
 # carval
   carve
+  carved
 # carvel
 # carven
 # carvene
@@ -13853,6 +14018,7 @@
 # cashboy
 # cashel
   cashew
+  cashews
 # cashgirl
 # Cashibo
   cashier
@@ -13862,6 +14028,7 @@
 # Casimir
   casing
   casino
+  casinos
 # casiri
   cask
   casket
@@ -14058,6 +14225,7 @@
 # catsup
 # cattabu
   cattail
+  cattails
 # cattalo
 # cattery
 # Catti
@@ -14127,6 +14295,7 @@
 # causally
 # causate
   cause
+  caused
 # causeful
 # causer
 # causerie
@@ -14181,9 +14350,12 @@
 # cavitary
   cavitate
 # cavitied
+  cavities
   cavity
 # caviya
   cavort
+  cavorted
+  cavorts
 # cavus
 # cavy
 # caw
@@ -14324,6 +14496,7 @@
 # cembalo
   cement
 # cemental
+  cemented
 # cementer
 # cementin
 # cementum
@@ -14698,7 +14871,6 @@
 # champaka
 # champer
   champion
-  champion
 # champy
 # Chanabal
 # Chanca
@@ -14797,8 +14969,10 @@
 # charet
 # charette
   charge
+  charged
 # chargee
   charger
+  charges
   charging
 # charier
 # charily
@@ -14819,10 +14993,12 @@
 # Charlie
 # charlock
   charm
+  charmed
 # charmel
   charmer
 # charmful
   charming
+  charms
 # charnel
 # Charon
 # Charonic
@@ -14836,7 +15012,7 @@
 # charry
 # charshaf
   chart
-# charter
+  charter
   charting
 # Chartism
 # Chartist
@@ -14847,6 +15023,7 @@
 # chary
 # chasable
   chase
+  chased
   chaser
 # Chasidim
   chasing
@@ -14873,8 +15050,10 @@
 # chati
 # Chatino
 # Chatot
+  chats
 # chatsome
 # chatta
+  chatted
 # chattel
   chatter
 # chattery
@@ -14918,8 +15097,10 @@
 # cheapish
   cheaply
   cheat
+  cheated
 # cheatee
   cheater
+  cheaters
 # cheatery
   cheating
 # cheatrie
@@ -14948,6 +15129,7 @@
 # cheeker
   cheekily
 # cheekish
+  cheeks
   cheeky
 # cheep
 # cheeper
@@ -14969,6 +15151,7 @@
   cheesy
 # cheet
   cheetah
+  cheetahs
 # cheeter
 # cheetie
 # chef
@@ -15031,6 +15214,7 @@
   Cherokee
 # cheroot
 # cherried
+  cherries
   cherry
 # chert
 # cherte
@@ -15108,11 +15292,12 @@
 # Chicha
 # chichi
 # chichipe
-# chick
+  chick
 # chickell
   chicken
 # chicker
   chickens
+  chicks
 # chickwit
 # chicky
 # chicle
@@ -15127,7 +15312,9 @@
 # chid
 # chidden
   chide
+  chided
 # chider
+  chides
   chiding
 # chidra
   chief
@@ -15159,6 +15346,7 @@
 # childed
 # childing
   childish
+  children
 # childly
 # chile
 # Chilean
@@ -15228,7 +15416,7 @@
 # chinkle
 # chinks
 # chinky
-  chinless
+# chinless
 # chinnam
 # chinned
 # chinny
@@ -15275,6 +15463,7 @@
 # chiropod
 # Chirotes
   chirp
+  chirped
 # chirper
 # chirpily
   chirping
@@ -15363,6 +15552,7 @@
 # Choisya
 # chokage
   choke
+  choked
   choker
 # chokered
 # chokidar
@@ -15588,6 +15778,7 @@
 # chunga
   chunk
 # chunkily
+  chunks
   chunky
 # chunner
 # chunnia
@@ -15595,6 +15786,7 @@
 # chupak
 # chupon
   church
+  churches
   churchly
 # churchy
 # churel
@@ -15605,8 +15797,10 @@
 # churly
 # churm
   churn
+  churned
 # churnful
   churning
+  churns
 # Churoya
 # Churoyan
 # churr
@@ -15813,6 +16007,7 @@
 # cithara
 # cither
 # citied
+  cities
 # citified
 # citify
   citizen
@@ -15884,7 +16079,9 @@
 # claggy
   claim
   claimant
+  claimed
 # claimer
+  claiming
   claims
 # clairce
 # Claire
@@ -15908,7 +16105,10 @@
   clamor
 # clamorer
   clamp
+  clamped
 # clamper
+  clamping
+  clamps
   clams
 # clamworm
   clan
@@ -15922,13 +16122,15 @@
 # clanless
 # clanned
 # clanning
+  clans
 # clanship
   clansman
   clap
 # clapnet
-# clapped
+  clapped
   clapper
   clapping
+  claps
 # clapt
   claptrap
 # clapwort
@@ -15959,6 +16161,7 @@
 # clary
   clash
 # clasher
+  clashes
 # clashy
   clasp
 # clasper
@@ -16045,6 +16248,7 @@
 # cleam
 # cleamer
   clean
+  cleaned
   cleaner
   cleaning
 # cleanish
@@ -16061,10 +16265,10 @@
   clearly
 # cleat
   cleavage
-# cleave
+  cleave
   cleaver
-# cleavers
-# cleaving
+  cleavers
+  cleaving
 # cleche
 # cleck
 # cled
@@ -16105,6 +16309,7 @@
 # clerking
 # clerkish
 # clerkly
+  clerks
 # cleruch
 # cleruchy
 # Clerus
@@ -16120,8 +16325,10 @@
 # cliack
 # cliche
   click
+  clicked
   clicker
 # clicket
+  clicking
   clicks
 # clicky
 # cliency
@@ -16129,6 +16336,7 @@
 # cliental
 # cliented
 # clientry
+  clients
 # Cliff
   cliff
 # cliffed
@@ -16148,6 +16356,7 @@
 # climb
   climber
   climbing
+  climbers
 # clime
 # clinal
 # clinamen
@@ -16251,7 +16460,10 @@
 # clomben
 # clonal
   clone
+  cloned
+  clones
 # clonic
+  cloning
 # clonism
 # clonus
 # cloof
@@ -16267,7 +16479,9 @@
 # closen
   closer
   closet
+  closets
 # closh
+  closing
 # closish
 # closter
   closure
@@ -16283,16 +16497,18 @@
 # Clotho
 # clothy
 # clottage
+  clotted
 # clotter
+  clotting
 # clotty
 # cloture
 # clotweed
   cloud
 # cloudage
-# cloudcap
+  cloudcap
   clouded
 # cloudful
-# cloudily
+  cloudily
 # clouding
 # cloudlet
   clouds
@@ -16309,6 +16525,7 @@
   clover
   clovered
 # clovery
+  cloves
 # clow
   clown
 # clownade
@@ -16326,7 +16543,7 @@
   clubbed
 # clubber
 # clubbily
-# clubbing
+  clubbing
 # clubbish
 # clubbism
 # clubbist
@@ -16364,6 +16581,7 @@
 # clupeoid
 # Clusia
   cluster
+  clusters
 # clustery
   clutch
 # cluther
@@ -16402,11 +16620,12 @@
   coach
 # coachee
 # coacher
+  coaches
 # coachful
   coaching
 # coachlet
-# coachman
-# coachway
+  coachman
+  coachway
 # coachy
 # coact
 # coaction
@@ -16480,6 +16699,7 @@
   coating
   coatless
   coatroom
+  coats
 # coattail
 # coattend
 # coattest
@@ -16500,6 +16720,7 @@
 # cobberer
 # cobbing
   cobble
+  cobbled
   cobbler
 # cobblery
 # cobbling
@@ -16524,6 +16745,7 @@
 # cobola
 # cobourg
   cobra
+  cobras
 # cobstone
 # coburg
 # Cobus
@@ -16610,7 +16832,9 @@
 # Coconino
 # Coconuco
   coconut
+  coconuts
   cocoon
+  cocoons
 # cocorico
 # cocoroot
 # Cocos
@@ -16636,10 +16860,12 @@
   code
 # codebtor
 # codecree
+  coded
 # codeine
 # codeless
   coder
 # coderive
+  codes
   codex
   codfish
   codger
@@ -16653,6 +16879,7 @@
   codify
 # codilla
 # codille
+  coding
 # codiniac
 # codist
 # Codium
@@ -16703,6 +16930,7 @@
 # coequal
 # coequate
   coerce
+  coerced
 # coercer
 # coercion
 # coercive
@@ -16725,6 +16953,7 @@
   coffee
   coffer
 # cofferer
+  coffers
   coffin
 # coffle
 # coffret
@@ -16793,7 +17022,7 @@
   coil
   coiled
 # coiler
-# coiling
+  coiling
   coils
   coin
 # coinable
@@ -16804,6 +17033,7 @@
 # coinhere
 # coining
 # coinmate
+  coins
 # coinsure
 # cointer
 # cointise
@@ -16894,6 +17124,7 @@
 # collare
 # collared
 # collaret
+  collars
   collate
 # collatee
 # collator
@@ -16902,6 +17133,7 @@
 # colleen
   college
 # colleger
+  colleges
 # Colleri
 # Collery
 # collery
@@ -16913,6 +17145,7 @@
 # colletin
 # colley
   collide
+  collided
 # collie
 # collied
 # collier
@@ -16953,6 +17186,7 @@
 # colonel
   colonial
 # colonic
+  colonies
   colonist
   colonize
   colony
@@ -16991,6 +17225,7 @@
 # colthood
   coltish
 # coltpixy
+  colts
 # coltskin
 # Coluber
 # colubrid
@@ -17057,6 +17292,7 @@
 # comedial
   comedian
   comedic
+  comedies
 # comedist
 # comedo
 # comedown
@@ -17072,6 +17308,7 @@
 # comether
 # cometic
 # cometoid
+  comets
 # comfit
   comfort
 # comfrey
@@ -17080,6 +17317,7 @@
   comic
   comical
 # comicry
+  comics
 # Comid
   coming
   comingle
@@ -17095,10 +17333,12 @@
   command
   commando
   commands
+  commas
 # commatic
   commence
   commend
   comment
+  comments
   commerce
 # commerge
 # commie
@@ -17130,6 +17370,7 @@
 # compages
   company
   compare
+  compared
 # comparer
 # compart
   compass
@@ -17140,8 +17381,12 @@
 # compense
 # compesce
   compete
+  competed
+  competes
   compile
+  compiled
   compiler
+  compiles
 # compital
 # compitum
   complain
@@ -17149,6 +17394,7 @@
   complete
   complex
 # complice
+  complied
 # complier
 # complin
 # complot
@@ -17164,6 +17410,7 @@
   compose
   composed
   composer
+  composes
   compost
 # compote
 # compotor
@@ -17175,7 +17422,9 @@
 # Compsoa
 # compter
   compute
+  computed
   computer
+  computes
 # computus
   comrade
   comrades
@@ -17209,8 +17458,10 @@
   concept
   concepts
   concern
+  concerns
   concert
-# concerto
+  concerto
+  concerts
 # conch
 # concha
 # conchal
@@ -17245,6 +17496,7 @@
   condone
 # condoner
   condor
+  condors
 # conduce
 # conducer
   conduct
@@ -17271,6 +17523,7 @@
 # Conferva
   confess
   confide
+  confided
 # confider
   confine
   confined
@@ -17322,6 +17575,7 @@
 # conidian
 # conidium
   conifer
+  conifers
 # coniform
 # conima
 # conimene
@@ -17335,7 +17589,9 @@
   conjugal
 # conjunct
   conjure
+  conjured
 # conjurer
+  conjures
 # conjuror
 # conjury
 # conk
@@ -17393,10 +17649,13 @@
   consular
   consult
   consume
+  consumed
   consumer
+  consumes
 # consumpt
 # consute
   contact
+  contacts
   contain
 # contango
 # conte
@@ -17438,6 +17697,7 @@
 # conuzor
   convect
   convene
+  convened
 # convenee
 # convener
   convent
@@ -17476,6 +17736,7 @@
 # cookable
   cookbook
 # cookdom
+  cooked
 # cookee
 # cookeite
   cooker
@@ -17486,12 +17747,14 @@
 # cookmaid
   cookout
 # cookroom
+  cooks
 # cookshop
 # cooky
   cool
   coolant
 # coolen
   cooler
+  coolers
 # coolibah
 # coolie
   cooling
@@ -17550,6 +17813,7 @@
 # copatain
 # copatron
   cope
+  coped
 # Copehan
 # copei
 # Copelata
@@ -17561,6 +17825,7 @@
 # Copepoda
 # coper
 # coperta
+  copes
 # copesman
 # cophasal
 # Cophetua
@@ -17568,6 +17833,7 @@
 # copiable
   copied
   copier
+  copies
   copilot
   coping
 # copiopia
@@ -17613,6 +17879,7 @@
   copy
 # copybook
   copycat
+  copycats
 # copyhold
 # copyism
 # copyist
@@ -17832,6 +18099,7 @@
 # corrige
 # corrival
   corrode
+  corroded
 # corroder
   corrupt
 # corsac
@@ -17842,6 +18110,7 @@
 # corselet
   corset
 # corsetry
+  corsets
   Corsica
   Corsican
 # corsie
@@ -17946,7 +18215,9 @@
 # costrel
 # costula
   costume
+  costumed
 # costumer
+  costumes
 # costumic
 # cosuffer
 # cosuitor
@@ -17993,6 +18264,7 @@
   cottage
 # cottaged
 # cottager
+  cottages
 # cottagey
 # cotte
 # cotted
@@ -18027,6 +18299,7 @@
   couched
 # couchee
 # coucher
+  couches
   couching
 # couchy
 # coude
@@ -18058,11 +18331,14 @@
 # counsel
   count
 # countdom
-# counter
+  counted
+  counter
   countess
+  counties
   counting
 # countor
   country
+  counts
   county
 # coup
 # coupage
@@ -18090,6 +18366,7 @@
 # courge
 # courida
   courier
+  couriers
 # couril
 # courlan
 # Cours
@@ -18097,7 +18374,7 @@
 # coursed
 # courser
   courses
-# coursing
+  coursing
   court
 # courtepy
 # courter
@@ -18105,7 +18382,7 @@
 # courtier
 # courtin
 # courtlet
-# courtly
+  courtly
 # courtman
 # Courtney
 # couscous
@@ -18140,6 +18417,7 @@
   covering
   coverlet
 # coverlid
+  covers
 # coversed
   covert
   covertly
@@ -18164,6 +18442,7 @@
 # Cowan
   coward
   cowardly
+  cowards
 # cowardy
 # cowbane
   cowbell
@@ -18175,6 +18454,8 @@
 # cowdie
 # coween
   cower
+  cowered
+  cowering
 # cowfish
 # cowgate
   cowgirl
@@ -18284,15 +18565,19 @@
 # crackly
 # cracknel
   crackpot
+  cracks
 # cracky
 # craddy
 # cradge
   cradle
 # cradler
-# cradling
+  cradles
+  cradling
 # Cradock
   craft
   craftily
+  crafting
+  crafts
   crafty
 # crag
 # craggan
@@ -18326,12 +18611,14 @@
 # crampet
   cramping
 # crampon
+  cramps
 # crampy
 # cran
 # cranage
 # crance
 # crandall
   crane
+  craned
 # craneman
 # craner
   cranes
@@ -18345,6 +18632,7 @@
 # Craniata
 # craniate
 # cranic
+  craning
 # Craniota
   cranium
   crank
@@ -18357,10 +18645,12 @@
 # crankman
 # crankous
 # crankpin
+  cranks
 # crankum
   cranky
 # crannage
 # crannied
+  crannies
 # crannock
 # crannog
   cranny
@@ -18378,6 +18668,8 @@
 # crare
   crash
 # crasher
+  crashes
+  crashing
 # crasis
   crass
 # crassier
@@ -18391,6 +18683,7 @@
 # crateful
 # crateman
   crater
+  crates
 # crateral
 # cratered
 # Craterid
@@ -18402,6 +18695,7 @@
   cravenly
 # craver
   craving
+  cravings
 # cravo
 # craw
   crawdad
@@ -18410,6 +18704,7 @@
 # crawful
   crawl
 # crawler
+  crawled
 # crawley
   crawling
 # crawly
@@ -18444,16 +18739,21 @@
 # creancer
 # creant
   crease
+  creased
 # creaser
+  creases
   creasing
 # creasy
 # creat
   create
+  created
 # creatic
 # creatine
+  creating
   creation
   creative
   creator
+  creators
 # creatrix
   creature
 # crebrity
@@ -18560,6 +18860,7 @@
 # crevasse
   crevice
 # creviced
+  crevices
   crew
 # crewel
 # crewer
@@ -18612,6 +18913,7 @@
 # crined
 # crinet
   cringe
+  cringed
 # cringer
   cringing
 # cringle
@@ -18710,6 +19012,7 @@
   crooked
 # crooken
 # crookle
+  crooks
 # crool
 # Croomia
   croon
@@ -18723,7 +19026,7 @@
 # cropper
 # croppie
 # croppy
-# crops
+  crops
 # cropshin
 # cropsick
 # cropweed
@@ -18741,6 +19044,7 @@
 # crosse
   crossed
 # crosser
+  crosses
   crossing
 # crossite
 # crosslet
@@ -18768,6 +19072,7 @@
   crouch
   crouched
 # croucher
+  crouches
 # croup
 # croupade
 # croupal
@@ -18784,6 +19089,7 @@
   crow
 # crowbait
   crowbar
+  crowbars
 # crowbill
   crowd
   crowded
@@ -18798,6 +19104,7 @@
   crowned
 # crowner
 # crownlet
+  crowns
   crows
 # crowshay
 # crowstep
@@ -18836,7 +19143,9 @@
 # cruet
 # cruety
   cruise
+  cruised
   cruiser
+  cruising
 # cruisken
 # cruive
 # cruller
@@ -18845,7 +19154,7 @@
 # crumber
   crumble
 # crumblet
-# crumbly
+  crumbly
 # crumby
 # crumen
 # crumenal
@@ -18863,6 +19172,8 @@
 # crumply
 # crumpy
   crunch
+  crunched
+  crunches
   crunchy
 # crunk
 # crunkle
@@ -18876,12 +19187,14 @@
 # crus
   crusade
   crusader
+  crusades
 # crusado
 # Crusca
 # cruse
   crush
   crushed
   crusher
+  crushes
   crushing
 # crusie
 # crusily
@@ -18898,6 +19211,7 @@
   crutch
 # crutched
 # crutcher
+  crutches
 # cruth
 # crutter
   crux
@@ -18956,7 +19270,8 @@
 # cubica
 # cubical
 # cubicity
-  cubicle
+# cubicle
+# cubicles
 # cubicly
 # cubicone
 # cubiform
@@ -19178,6 +19493,7 @@
 # cuprose
 # cuprous
 # cuprum
+  cups
 # cupseed
 # cupstone
 # cupula
@@ -19206,10 +19522,12 @@
 # curatrix
   curb
 # curbable
+  curbed
 # curber
 # curbing
 # curbless
 # curblike
+  curbs
 # curby
 # curcas
 # curch
@@ -19218,11 +19536,13 @@
 # curcumin
 # curd
   curdle
+  curdled
 # curdler
 # curdly
 # curdwort
 # curdy
   cure
+  cured
 # cureless
 # curer
 # curette
@@ -19266,6 +19586,7 @@
 # curratow
   currency
   current
+  currents
 # curricle
 # curried
 # currier
@@ -19278,7 +19599,9 @@
   cursed
 # cursedly
 # curser
+  curses
 # curship
+  cursing
 # cursitor
   cursive
 # cursor
@@ -19331,6 +19654,7 @@
 # cushat
 # cushaw
   cushion
+  cushions
 # cushiony
 # Cushite
 # Cushitic
@@ -19389,6 +19713,7 @@
 # cutout
 # cutover
   cutpurse
+  cuts
 # cuttable
 # cuttage
 # cuttail
@@ -19425,7 +19750,7 @@
 # cyanine
 # cyanite
 # cyanize
-# cyanogen
+  cyanogen
 # cyanol
 # cyanole
 # cyanopia
@@ -19536,7 +19861,7 @@
 # Cynias
   cynic
   cynical
-# cynicism
+  cynicism
 # cynicist
 # cynipid
 # cynipoid
@@ -19769,11 +20094,13 @@
 # Daira
 # daira
 # dairi
+  dairies
   dairy
 # dairying
 # dairyman
 # dais
 # daisied
+  daisies
   daisy
 # daitya
 # daiva
@@ -19812,8 +20139,10 @@
 # dam
 # dama
   damage
+  damaged
 # damager
   damages
+  damaging
 # daman
 # Damara
   Damascus
@@ -19822,7 +20151,7 @@
 # damassin
 # dambose
 # dambrod
-# dame
+  dame
 # damewort
 # Damia
 # damiana
@@ -19880,7 +20209,9 @@
 # Danakil
 # danalite
   dance
+  danced
   dancer
+  dances
 # dancery
 # dancette
   dancing
@@ -19908,6 +20239,7 @@
 # dang
   danger
   dangle
+  dangled
 # dangler
 # danglin
   dangling
@@ -20057,6 +20389,7 @@
 # dashee
 # dasheen
 # dasher
+  dashes
   dashing
 # Dashnak
 # dashpot
@@ -20082,6 +20415,7 @@
 # datch
 # datcha
   date
+  dated
 # dateless
 # datemark
 # dater
@@ -20200,7 +20534,9 @@
 # dazingly
 # dazy
   dazzle
+  dazzled
   dazzler
+  dazzling
 # deacon
 # deaconal
 # deaconry
@@ -20272,13 +20608,17 @@
 # Deb
 # deb
   debacle
+  debacles
 # debadge
 # debar
   debark
   debase
+  debased
   debaser
   debate
+  debated
   debater
+  debates
   debating
 # debauch
 # Debbie
@@ -20307,6 +20647,7 @@
 # debtless
 # debtor
   debunk
+  debunked
 # debunker
 # debus
 # debut
@@ -20321,6 +20662,7 @@
 # decadist
 # decafid
   decagon
+  decagons
   decagram
 # decal
 # Decalin
@@ -20334,6 +20676,7 @@
   decanter
 # decap
   decapod
+  decapods
 # Decapoda
 # decapper
 # decarch
@@ -20376,9 +20719,11 @@
 # Decian
 # deciare
   decibel
+  decibels
   decide
   decided
 # decider
+  deciding
 # decidua
 # decidual
 # decigram
@@ -20405,6 +20750,7 @@
 # decking
 # deckle
 # deckload
+  decks
   declaim
   declare
   declared
@@ -20420,6 +20766,7 @@
 # decoct
 # decoctum
   decode
+  decoded
 # Decodon
 # decohere
 # decoic
@@ -20438,6 +20785,7 @@
   decrease
   decree
 # decreer
+  decrees
 # decreet
   decrepit
 # decretal
@@ -20474,6 +20822,7 @@
 # dedition
 # dedo
   deduce
+  deduced
 # deducive
   deduct
 # dee
@@ -20483,8 +20832,10 @@
 # deedful
 # deedily
 # deedless
+  deeds
 # deedy
   deem
+  deemed
 # deemer
 # deemie
 # deemster
@@ -20512,6 +20863,7 @@
 # deeryard
 # deevey
   deface
+  defaced
   defacer
   defacing
 # defalk
@@ -20523,11 +20875,14 @@
   default
 # defease
   defeat
+  defeated
 # defeater
+  defeats
 # defecant
 # defecate
   defect
   defector
+  defects
 # defence
   defend
   defender
@@ -20555,6 +20910,7 @@
 # definer
   definite
   deflate
+  deflated
 # deflator
   deflect
 # deflesh
@@ -20582,6 +20938,7 @@
   deftness
   defunct
   defuse
+  defused
 # defusion
   defy
 # deg
@@ -20668,8 +21025,10 @@
   delay
 # delayage
 # delayer
+  delayed
 # delayful
   delaying
+  delays
 # Delbert
 # dele
 # delead
@@ -20679,6 +21038,7 @@
   delegate
 # delenda
   delete
+  deleted
   deletion
 # deletive
 # deletory
@@ -20717,6 +21077,7 @@
 # deltal
 # deltic
   deltoid
+  deltoids
 # delubrum
   delude
 # deluder
@@ -20730,6 +21091,7 @@
   deluxe
   delve
 # delver
+  delving
 # demagog
 # demagogy
 # demal
@@ -20748,6 +21110,7 @@
   demented
   dementia
   demerit
+  demerits
 # Demerol
 # demersal
 # demersed
@@ -20814,6 +21177,7 @@
 # Demophon
 # demos
   demote
+  demoted
 # demotic
 # demotics
   demotion
@@ -20852,6 +21216,7 @@
 # dengue
   deniable
   denial
+  denied
 # denier
 # denierer
   denim
@@ -20861,6 +21226,8 @@
 # dennet
 # Dennis
   denote
+  denoted
+  denotes
 # denotive
   denounce
   dense
@@ -20881,6 +21248,7 @@
 # dentata
 # dentate
 # dentated
+  dented
 # dentel
 # dentelle
 # denter
@@ -20894,6 +21262,7 @@
 # dentine
   dentist
 # dentoid
+  dents
 # dentural
 # denture
 # denty
@@ -20912,25 +21281,30 @@
   depart
   departed
 # departer
+  departs
 # depas
 # depass
 # depencil
   depend
 # depender
+  depends
 # depeople
 # depeter
 # dephase
 # depickle
   depict
+  depicted
 # depicter
 # depilate
 # depilous
   deplane
   deplete
+  depleted
   deplore
-# deplored
+  deplored
 # deplorer
   deploy
+  deployed
 # deplume
 # deplump
 # depoh
@@ -20938,10 +21312,12 @@
 # depone
 # deponent
   deport
+  deported
 # deportee
 # deporter
 # deposal
   depose
+  deposed
 # deposer
   deposit
 # depot
@@ -20953,6 +21329,7 @@
 # deprint
   deprival
   deprive
+  deprived
 # depriver
 # depside
   depth
@@ -20961,12 +21338,14 @@
 # depurant
 # depurate
 # depute
+  deputies
   deputize
   deputy
 # dequeen
 # derah
 # deraign
   derail
+  derailed
 # derailer
 # derange
   deranged
@@ -21079,6 +21458,7 @@
 # despect
 # despisal
   despise
+  despised
 # despiser
   despite
   despoil
@@ -21106,6 +21486,7 @@
   detach
   detached
 # detacher
+  detaches
   detail
   detailed
 # detailer
@@ -21117,6 +21498,7 @@
 # detassel
 # detax
   detect
+  detected
 # detecter
 # detector
 # detenant
@@ -21124,6 +21506,7 @@
   deter
 # deterge
   detest
+  detested
 # detester
   dethrone
 # detin
@@ -21133,6 +21516,7 @@
   detour
 # detoxify
   detract
+  detracts
 # detrain
 # detrital
 # detrited
@@ -21144,6 +21528,7 @@
   deuce
 # deuced
 # deucedly
+  deuces
 # deul
 # deuteric
 # deuteron
@@ -21156,19 +21541,25 @@
 # devall
 # devaloka
   devalue
+  devalued
 # devance
 # devast
 # devaster
 # devata
 # develin
   develop
+  develops
 # devest
 # deviable
 # deviancy
   deviant
+  deviants
   deviate
+  deviated
+  deviates
 # deviator
   device
+  devices
   devil
 # devildom
 # deviled
@@ -21182,19 +21573,23 @@
 # devilkin
 # devilman
 # devilry
+  devils
 # deviltry
 # devily
   devious
 # devisal
   devise
+  devised
 # devisee
 # deviser
+  devises
 # devisor
 # devoice
   devoid
 # devoir
 # devolute
   devolve
+  devolved
 # Devon
 # Devonian
 # Devonic
@@ -21205,6 +21600,7 @@
 # devoter
   devotion
   devour
+  devoured
 # devourer
   devout
 # devoutly
@@ -21340,6 +21736,7 @@
 # diamine
 # diammine
   diamond
+  diamonds
 # Dian
 # dian
 # Diana
@@ -21372,6 +21769,7 @@
 # diarchy
 # diarial
 # diarian
+  diaries
 # diarist
 # diarize
 # diarrhea
@@ -21397,7 +21795,7 @@
 # diatonic
 # diatoric
 # diatreme
-# diatribe
+  diatribe
 # Diatryma
 # Diau
 # diaulic
@@ -21471,6 +21869,7 @@
 # dicta
 # Dictaen
   dictate
+  dictated
   dictator
 # dictic
   diction
@@ -21547,6 +21946,7 @@
 # Difda
 # diffame
   differ
+  differs
 # diffide
 # difform
   diffract
@@ -21626,6 +22026,7 @@
   dilate
   dilated
 # dilater
+  dilating
   dilation
 # dilative
 # dilator
@@ -21734,6 +22135,7 @@
 # dingly
 # dingmaul
   dingo
+  dingos
 # dingus
 # Dingwall
 # dingy
@@ -21750,6 +22152,7 @@
 # dinky
 # dinmont
   dinner
+  dinners
 # dinnerly
 # dinnery
 # dinomic
@@ -21979,7 +22382,7 @@
 # disdiazo
 # disdub
   disease
-# diseased
+  diseased
   diseases
 # disedge
 # disedify
@@ -22015,6 +22418,7 @@
 # dishelm
 # disher
 # disherit
+  dishes
 # dishevel
 # dishful
 # Dishley
@@ -22097,7 +22501,7 @@
 # Disporum
   disposal
   dispose
-# disposed
+  disposed
 # disposer
 # dispost
 # dispread
@@ -22107,12 +22511,14 @@
 # dispulp
 # dispunct
   dispute
+  disputed
 # disputer
 # disquiet
 # disrank
 # disrate
 # disring
   disrobe
+  disrobed
 # disrober
 # disroof
 # disroost
@@ -22180,12 +22586,14 @@
   ditch
 # ditchbur
 # ditcher
+  ditches
 # dite
 # diter
 # dithecal
 # ditheism
 # ditheist
   dither
+  dithered
 # dithery
 # dithioic
 # dithion
@@ -22219,18 +22627,23 @@
 # divel
   diver
   diverge
-# divers
+  diverged
+  divers
   diverse
 # diversly
   divert
+  diverted
 # diverter
 # divertor
+  diverts
   divest
+  divested
   divide
   divided
   dividend
   divider
   dividers
+  divides
   dividing
 # dividual
 # divinail
@@ -22248,12 +22661,15 @@
   divisor
 # divisory
   divorce
+  divorced
 # divorcee
 # divorcer
 # divot
 # divoto
   divulge
+  divulged
 # divulger
+  divulges
 # divulse
 # divulsor
 # divus
@@ -22354,20 +22770,23 @@
 # dodecant
 # dodecyl
   dodge
+  dodged
 # dodgeful
   dodger
+  dodgers
 # dodgery
 # dodgily
 # dodgy
 # dodkin
 # dodlet
 # dodman
-# dodo
+  dodo
 # dodoism
 # Dodona
 # Dodonaea
 # Dodonean
 # Dodonian
+  dodos
 # dodrans
 # doe
 # doebird
@@ -22502,6 +22921,7 @@
 # dollier
 # dollish
   dollop
+  dollops
 # dollship
 # dolly
 # dollyman
@@ -22525,6 +22945,7 @@
   doltish
 # dom
   domain
+  domains
 # domainal
 # domal
 # domanial
@@ -22535,6 +22956,7 @@
 # domelike
 # doment
 # domer
+  domes
 # domesday
   domestic
 # domett
@@ -22572,6 +22994,8 @@
   donate
   donated
 # donatee
+  donates
+  donating
   donation
 # Donatism
 # Donatist
@@ -22618,8 +23042,10 @@
 # doodad
 # Doodia
   doodle
+  doodled
 # doodler
   doodles
+  doodling
 # dooja
 # dook
 # dooket
@@ -22633,6 +23059,7 @@
   doom
 # doomage
   doombook
+  doomed
 # doomer
 # doomful
 # dooms
@@ -22794,6 +23221,7 @@
   doubloon
   doubly
   doubt
+  doubted
   doubter
   doubtful
   doubting
@@ -22825,6 +23253,7 @@
 # dourly
 # dourness
   douse
+  doused
 # douser
 # dout
 # douter
@@ -22931,10 +23360,13 @@
   dozed
   dozen
 # dozener
+  dozens
 # dozenth
 # dozer
+  dozes
 # dozily
 # doziness
+  dozing
 # dozy
 # dozzled
   drab
@@ -22963,6 +23395,7 @@
 # draffy
   draft
 # draftage
+  drafted
 # draftee
 # drafter
 # draftily
@@ -22998,7 +23431,9 @@
 # draine
   drained
   drainer
+  draining
 # drainman
+  drains
 # draisine
   drake
 # dram
@@ -23056,7 +23491,7 @@
 # drawknot
   drawl
 # drawler
-# drawling
+  drawling
 # drawlink
 # drawloom
 # drawly
@@ -23075,6 +23510,7 @@
   dread
 # dreader
   dreadful
+  dreading
 # dreadly
   dream
 # dreamage
@@ -23082,6 +23518,7 @@
 # dreamery
 # dreamful
   dreamily
+  dreaming
 # dreamish
 # dreamlet
 # dreamlit
@@ -23094,8 +23531,10 @@
 # drearly
   dreary
   dredge
+  dredged
 # dredger
-# dredging
+  dredges
+  dredging
 # dree
 # dreep
 # dreepy
@@ -23107,7 +23546,9 @@
 # dregs
 # dreiling
   drench
+  drenched
 # drencher
+  drenches
 # dreng
 # drengage
 # Drepanis
@@ -23115,6 +23556,7 @@
 # dressage
   dressed
   dresser
+  dresses
 # dressily
   dressing
 # dressy
@@ -23135,6 +23577,7 @@
 # driest
   drift
 # driftage
+  drifted
   drifter
   drifting
 # driftlet
@@ -23153,6 +23596,7 @@
   drink
 # drinker
   drinking
+  drinks
 # drinn
   drip
 # dripper
@@ -23169,9 +23613,11 @@
 # driveler
   driven
   driver
+  drivers
   driveway
   driving
   drizzle
+  drizzled
 # drizzly
 # drochuil
 # droddum
@@ -23197,13 +23643,17 @@
 # dronage
   drone
 # droner
+  drones
 # drongo
 # dronish
 # drony
   drool
+  drooling
   droop
+  drooped
 # drooper
   drooping
+  droops
 # droopt
   droopy
   drop
@@ -23213,6 +23663,7 @@
 # dropling
 # dropman
   dropout
+  dropped
 # dropper
   dropping
 # droppy
@@ -23241,7 +23692,9 @@
 # drovy
 # drow
   drown
+  drowned
 # drowner
+  drowning
 # drowse
 # drowsily
   drowsy
@@ -23256,6 +23709,7 @@
 # drudgism
 # druery
   drug
+  drugged
 # drugger
 # druggery
 # drugget
@@ -23270,6 +23724,7 @@
   druidic
 # druidism
 # druidry
+  druids
 # druith
 # Drukpa
   drum
@@ -23284,6 +23739,7 @@
   drumline
 # drumloid
 # drumly
+  drummed
   drummer
   drumming
 # drummy
@@ -23378,6 +23834,7 @@
   duck
   duckbill
 # duckboat
+  ducked
 # ducker
 # duckery
   duckfoot
@@ -23409,6 +23866,7 @@
 # duddies
   dude
 # dudeen
+  dudes
 # dudgeon
 # dudine
 # dudish
@@ -23428,6 +23886,7 @@
 # duer
 # Duessa
   duet
+  duets
 # duettist
 # duff
 # duffadar
@@ -23442,6 +23901,7 @@
 # dugdug
 # duggler
   dugong
+  dugongs
   dugout
 # dugway
 # duhat
@@ -23525,6 +23985,7 @@
 # dumple
   dumpling
 # dumpoke
+  dumps
 # dumpy
 # dumsola
 # dun
@@ -23594,6 +24055,7 @@
 # duopod
 # duopoly
 # duopsony
+  duos
 # duotone
 # duotype
 # dup
@@ -23689,6 +24151,7 @@
 # duteous
 # dutiable
 # dutied
+  duties
   dutiful
 # dutra
   duty
@@ -23827,8 +24290,8 @@
 # earlship
   early
   earmark
-  earn
-  earner
+# earn
+# earner
 # earnest
 # earnful
 # Earnie
@@ -23838,8 +24301,10 @@
 # earpick
   earpiece
   earplug
+  earplugs
 # earreach
   earring
+  earrings
   ears
 # earscrew
   earshot
@@ -23847,7 +24312,7 @@
 # eartab
   earth
 # earthed
-# earthen
+  earthen
 # earthian
 # earthkin
   earthly
@@ -23857,19 +24322,20 @@
   earwax
   earwig
 # earwiggy
+  earwigs
   earworm
 # earwort
 # ease
 # easeful
 # easel
 # easeless
-# easement
+  easement
 # easer
-# easier
-# easiest
+  easier
+  easiest
   easily
 # easiness
-# easing
+  easing
   east
   Easter
 # easter
@@ -23946,6 +24412,7 @@
 # eche
 # echea
   echelon
+  echelons
 # Echeloot
 # Echeneis
   echidna
@@ -23965,6 +24432,7 @@
   echo
 # echoer
 # echoic
+  echoing
 # echoism
 # echoist
 # echoize
@@ -23982,6 +24450,7 @@
 # eclegm
 # eclegma
   eclipse
+  eclipsed
 # eclipser
   eclipses
 # eclipsis
@@ -24101,6 +24570,7 @@
 # edital
 # Edith
   edition
+  editions
   editor
 # editress
 # Ediya
@@ -24128,7 +24598,7 @@
   Edwin
 # Edwina
 # eegrass
-# eel
+  eel
 # eelboat
 # eelbob
 # eelcake
@@ -24140,6 +24610,7 @@
 # eellike
 # eelpot
 # eelpout
+  eels
 # eelshop
   eelskin
 # eelspear
@@ -24162,7 +24633,7 @@
 # efferent
 # effete
 # effetman
-# efficacy
+  efficacy
 # Effie
 # effigial
   effigy
@@ -24177,7 +24648,7 @@
 # effund
 # effuse
 # effusion
-# effusive
+  effusive
 # Efik
 # efoliose
 # eft
@@ -24235,6 +24706,7 @@
 # egotist
 # egotize
   egress
+  egresses
 # egressor
 # egret
 # Egretta
@@ -24273,9 +24745,11 @@
 # Ejam
   eject
   ejecta
+  ejected
   ejection
 # ejective
 # ejector
+  ejects
 # ejicient
 # ejoo
 # ekaboron
@@ -24315,12 +24789,14 @@
 # elapoid
 # Elaps
   elapse
+  elapsed
+  elapses
   elastic
 # elastica
 # elastin
 # elastose
 # elatcha
-# elate
+  elate
   elated
   elatedly
 # elater
@@ -24356,6 +24832,7 @@
 # Eleatic
 # Eleazar
   elect
+  elected
 # electee
   election
   elective
@@ -24443,6 +24920,7 @@
 # Elkdom
   elkhorn
   elkhound
+  elks
 # elkslip
 # Elkuma
 # elkwood
@@ -24488,6 +24966,7 @@
   elongate
 # Elonite
   elope
+  eloped
 # eloper
 # Elopidae
 # elops
@@ -24506,7 +24985,10 @@
 # elt
 # eluate
   elude
+  eluded
 # eluder
+  eludes
+  eluding
 # elusion
   elusive
 # elusory
@@ -24545,12 +25027,14 @@
 # emajagua
 # emanant
   emanate
+  emanated
 # emanativ
 # emanator
 # emanium
 # emarcid
 # emball
   embalm
+  embalmed
 # embalmer
 # embank
 # embar
@@ -24564,6 +25048,7 @@
 # embay
 # Embden
   embed
+  embedded
 # embeggar
 # Embelia
 # embelic
@@ -24581,6 +25066,7 @@
   emblazon
   emblem
 # emblema
+  emblems
 # emblic
 # embodier
 # embody
@@ -24599,6 +25085,7 @@
 # emborder
 # embosom
   emboss
+  embossed
 # embosser
 # embottle
 # embound
@@ -24608,7 +25095,9 @@
 # embower
 # embox
   embrace
+  embraced
 # embracer
+  embraces
 # embrail
 # Embrica
 # embright
@@ -24620,6 +25109,7 @@
 # embryoma
 # embryon
 # embryony
+  embryos
 # embryous
 # embubble
 # embuia
@@ -24636,7 +25126,10 @@
   emerald
 # emeraude
   emerge
+  emerged
   emergent
+  emerges
+  emerging
 # Emerita
 # emerited
   emeritus
@@ -24672,6 +25165,7 @@
   emission
   emissive
   emit
+  emitted
 # emittent
   emitter
 # Emm
@@ -24688,6 +25182,9 @@
 # emodin
 # emoloa
   emote
+  emoted
+  emotes
+  emoting
   emotion
   emotions
   emotive
@@ -24718,6 +25215,7 @@
   employed
   employee
   employer
+  employs
 # emplume
 # empocket
 # empodium
@@ -24748,6 +25246,8 @@
 # emulable
 # emulant
   emulate
+  emulated
+  emulates
 # emulator
 # emulgent
 # emulous
@@ -24764,7 +25264,10 @@
 # Emydinae
 # Emys
   enable
+  enabled
   enabler
+  enables
+  enabling
   enact
 # enaction
 # enactive
@@ -24833,11 +25336,13 @@
 # enclitic
 # encloak
   enclose
+  enclosed
 # encloser
 # enclothe
 # encloud
 # encoach
   encode
+  encoded
 # encoffin
 # encoil
 # encolden
@@ -24929,6 +25434,7 @@
 # endozoa
   endpiece
 # Endromis
+  ends
 # endue
 # endura
 # endurant
@@ -24944,6 +25450,7 @@
 # Eneas
 # eneclann
 # enema
+  enemies
   enemy
 # energeia
 # energic
@@ -24973,12 +25480,15 @@
 # enflower
 # enfoil
   enfold
+  enfolded
 # enfolden
 # enfolder
+  enfolds
 # enfonced
   enforce
   enforced
   enforcer
+  enforces
 # enfork
 # enfoul
 # enframe
@@ -25021,6 +25531,7 @@
 # engolden
 # engore
   engorge
+  engorged
 # engouled
 # engrace
 # engraff
@@ -25040,12 +25551,14 @@
 # engross
 # enguard
   engulf
+  engulfed
 # enhallow
 # enhalo
 # enhamper
   enhance
   enhanced
 # enhancer
+  enhances
 # enhat
 # enhaunt
 # enhearse
@@ -25144,6 +25657,7 @@
 # enrace
   enrage
   enraged
+  enrages
 # enrange
 # enrank
 # enrapt
@@ -25204,6 +25718,7 @@
 # enslaver
 # ensmall
   ensnare
+  ensnared
 # ensnarer
 # ensnarl
 # ensnow
@@ -25221,7 +25736,9 @@
 # ensuance
 # ensuant
   ensue
+  ensued
 # ensuer
+  ensuing
 # ensure
 # ensurer
 # enswathe
@@ -25243,12 +25760,14 @@
   enter
 # enteral
 # enterate
+  entered
 # enterer
 # enteria
 # enteric
   entering
 # enteroid
 # enteron
+  enters
   enthalpy
 # entheal
 # enthetic
@@ -25258,7 +25777,9 @@
 # enthuse
 # entia
   entice
+  enticed
 # enticer
+  entices
   enticing
 # entify
   entire
@@ -25275,6 +25796,7 @@
 # entoil
 # Entoloma
   entomb
+  entombed
 # entomere
 # entomic
 # entomion
@@ -25311,6 +25833,7 @@
   entryway
 # enturret
   entwine
+  entwined
 # entwist
 # Entyloma
 # Enukki
@@ -25354,6 +25877,7 @@
 # enzooty
 # enzym
   enzyme
+  enzymes
 # enzymic
 # eoan
 # Eocene
@@ -25638,6 +26162,8 @@
   erase
   erased
   eraser
+  erasers
+  erasing
 # erasion
 # Erasmian
   Erasmus
@@ -25651,6 +26177,7 @@
 # erdvark
 # ere
   erect
+  erected
 # erecter
 # erectile
   erecting
@@ -25749,6 +26276,7 @@
   eroded
 # erodent
 # erodible
+  eroding
 # Erodium
 # erogenic
 # erogeny
@@ -25900,6 +26428,7 @@
 # esponton
 # espousal
   espouse
+  espoused
 # espouser
 # espundia
 # espy
@@ -25912,6 +26441,7 @@
 # essayism
   essayist
 # essaylet
+  essays
 # essed
 # Esselen
   essence
@@ -25940,6 +26470,7 @@
 # estamp
   estate
   esteem
+  esteemed
 # esteemer
 # Estella
 # ester
@@ -25993,6 +26524,7 @@
 # Etamin
 # etamine
   etch
+  etched
 # etcher
 # Etchimin
   etching
@@ -26264,7 +26796,10 @@
 # evacuee
 # evadable
   evade
+  evaded
 # evader
+  evades
+  evading
 # Evadne
   evaluate
 # evalue
@@ -26306,6 +26841,7 @@
   eventful
 # eventide
 # eventime
+  events
   eventual
 # evenwise
 # eveque
@@ -26330,6 +26866,7 @@
 # evetide
 # eveweed
   evict
+  evicted
   eviction
 # evictor
   evidence
@@ -26339,6 +26876,7 @@
 # evilly
   evilness
   evince
+  evinced
 # evincive
 # evirate
 # evisite
@@ -26351,11 +26889,16 @@
 # Evodia
 # evoe
   evoke
+  evoked
 # evoker
+  evokes
 # evolute
   evolve
+  evolved
 # evolvent
 # evolver
+  evolves
+  evolving
 # Evonymus
 # evovae
 # evulgate
@@ -26384,9 +26927,12 @@
   exam
 # examen
   examine
+  examined
 # examinee
   examiner
   example
+  examples
+  exams
 # exanthem
 # exarate
 # exarch
@@ -26402,7 +26948,9 @@
 # excecate
 # excedent
   exceed
+  exceeded
 # exceeder
+  exceeds
   excel
 # excelsin
   except
@@ -26415,12 +26963,14 @@
 # excipule
 # excircle
   excise
+  excised
 # excision
 # excisor
 # excitant
   excite
   excited
 # exciter
+  excites
   exciting
 # excitive
 # excitor
@@ -26428,11 +26978,13 @@
   exclaim
 # exclave
   exclude
+  excluded
 # excluder
 # excresce
 # excreta
 # excretal
   excrete
+  excreted
 # excreter
 # excretes
 # excubant
@@ -26442,7 +26994,9 @@
 # excurved
 # excusal
   excuse
+  excused
 # excuser
+  excuses
 # excusing
 # excusive
 # excuss
@@ -26471,6 +27025,7 @@
 # exergual
 # exergue
   exert
+  exerted
   exertion
 # exertive
 # exes
@@ -26485,6 +27040,7 @@
 # exhorter
 # exhumate
   exhume
+  exhumed
 # exhumer
 # exigence
 # exigency
@@ -26494,6 +27050,7 @@
 # exiguous
 # exilarch
   exile
+  exiled
 # exiledom
 # exiler
 # exilian
@@ -26501,11 +27058,14 @@
 # exility
 # eximious
   exist
+  existed
 # existent
 # exister
+  exists
   exit
 # exite
 # exition
+  exits
 # exitus
 # exlex
 # Exmoor
@@ -26568,6 +27128,7 @@
 # expander
   expanse
   expect
+  expected
 # expecter
 # expede
   expedite
@@ -26575,10 +27136,13 @@
 # expellee
 # expeller
   expend
+  expended
 # expender
   expense
+  expenses
   expert
   expertly
+  experts
 # expiable
   expiate
 # expiator
@@ -26586,8 +27150,10 @@
 # expirant
 # expirate
   expire
+  expired
 # expiree
 # expirer
+  expires
   expiring
 # expiry
   explain
@@ -26598,7 +27164,9 @@
 # exploder
   exploit
   explore
+  explored
   explorer
+  explores
 # expone
   exponent
   export
@@ -26615,6 +27183,7 @@
 # expulse
 # expulser
   expunge
+  expunged
 # expunger
 # expurge
 # exradio
@@ -26658,6 +27227,7 @@
   extreme
 # extrorse
   extrude
+  extruded
 # extruder
 # extubate
 # extund
@@ -26678,6 +27248,7 @@
 # eyas
 # eye
   eyeball
+  eyeballs
 # eyebalm
 # eyebar
 # eyebeam
@@ -26686,11 +27257,13 @@
 # eyebolt
 # eyebree
   eyebrow
+  eyebrows
 # eyecup
 # eyed
 # eyedness
 # eyedot
   eyedrop
+  eyedrops
 # eyeflap
 # eyeful
   eyeglass
@@ -26700,6 +27273,7 @@
 # eyeless
 # eyelet
   eyelid
+  eyelids
 # eyelight
 # eyelike
 # eyeline
@@ -26740,6 +27314,7 @@
 # ezba
 # Ezekiel
 # Ezra
+### HERE - plurals and tenses
 # Faba
 # Fabaceae
 # fabella
@@ -26927,6 +27502,7 @@
 # Falcones
 # falconet
   falconry
+  falcons
 # falcula
 # falcular
 # faldage
@@ -27545,6 +28121,7 @@
 # ferreous
   ferret
 # ferreter
+  ferrets
 # ferretto
 # ferrety
 # ferri
@@ -27709,8 +28286,9 @@
   fiddle
   fiddler
 # fiddlery
+  fiddles
 # fiddley
-# fiddling
+  fiddling
 # fide
 # fideism
 # fideist
@@ -27906,6 +28484,7 @@
   finch
 # finched
 # finchery
+  finches
   find
 # findable
 # findal
@@ -28055,9 +28634,9 @@
 # fishbed
 # fishbolt
   fishbone
-# fished
+  fished
   fisher
-# fishery
+  fishery
 # fishet
   fisheye
 # fishfall
@@ -28440,6 +29019,7 @@
 # flicky
 # flidder
 # flier
+  flies
 # fligger
   flight
 # flighted
@@ -29735,6 +30315,7 @@
 # frogling
   frogman
 # frognose
+  frogs
 # frogskin
 # frogwort
 # froise
@@ -30913,6 +31494,7 @@
 # geelhout
 # geepound
 # geerah
+  geese
 # geest
 # geet
 # Geez
@@ -31196,6 +31778,7 @@
 # Gerbera
 # Gerberia
   gerbil
+  gerbils
 # gercrow
 # gereagle
 # gerefa
@@ -31537,6 +32120,7 @@
 # gipsire
 # Giraffa
   giraffe
+  giraffes
 # girasol
 # girasole
 # girba
@@ -32006,6 +32590,7 @@
 # goatling
 # goatly
 # goatroot
+  goats
 # goatskin
 # goatweed
 # goaty
@@ -32328,6 +32913,7 @@
 # gorhen
 # goric
   gorilla
+  gorillas
 # gorily
 # goriness
 # goring
@@ -33875,6 +34461,7 @@
 # hamperer
 # hamsa
   hamster
+  hamsters
 # hamular
 # hamulate
 # hamule
@@ -34306,6 +34893,7 @@
 # hawkish
 # hawklike
 # hawknut
+  hawks
 # hawkweed
 # hawkwise
 # hawky
@@ -34921,6 +35509,7 @@
   hermit
 # hermitic
 # hermitry
+  hermits
 # Hermo
 # hern
 # hernani
@@ -35414,6 +36003,7 @@
 # hognut
 # hogpen
 # hogreeve
+  hogs
   hogshead
 # hogship
 # hogskin
@@ -35750,6 +36340,7 @@
 # horner
 # hornerah
   hornet
+  hornets
 # hornety
 # hornfair
 # hornfels
@@ -36314,8 +36905,9 @@
 # hydrula
 # Hydrurus
 # Hydrus
-# hyena
+  hyena
 # hyenadog
+  hyenas
 # hyenic
 # hyenine
 # hyenoid
@@ -36712,6 +37304,7 @@
 # ignote
 # Igorot
   iguana
+  iguanas
 # Iguania
 # iguanian
 # iguanid
@@ -36929,6 +37522,7 @@
 # impairer
   impala
 # impalace
+  impalas
   impale
 # impaler
 # impall
@@ -38202,9 +38796,10 @@
 # isophene
 # isoplere
 # isopleth
-# isopod
+  isopod
 # Isopoda
 # isopodan
+  isopods
 # isopoly
 # isoprene
 # Isoptera
@@ -38405,7 +39000,8 @@
 # jacinthe
 # Jack
 # jack
-# jackal
+  jackal
+  jackals
 # jackaroo
 # jackass
 # jackbird
@@ -38481,7 +39077,8 @@
 # jagong
 # jagrata
 # jagua
-# jaguar
+  jaguar
+  jaguars
 # Jahve
 # Jahvist
 # jail
@@ -39617,7 +40214,7 @@
 # kang
 # kanga
 # kangani
-# kangaroo
+  kangaroo
 # Kangli
 # Kanji
 # Kankanai
@@ -39999,7 +40596,8 @@
 # kerygma
 # kerystic
 # Keryx
-# kestrel
+  kestrel
+  kestrels
 # ket
 # keta
 # ketal
@@ -40406,7 +41004,8 @@
 # kitling
 # Kitlope
 # kittel
-# kitten
+  kitten
+  kittens
 # kitter
 # kitthoge
 # kittle
@@ -40615,7 +41214,8 @@
 # knyazi
 # koa
 # koae
-# koala
+  koala
+  koalas
 # koali
 # Koasati
 # kob
@@ -41217,7 +41817,8 @@
 # ladrone
 # lady
 # ladybird
-# ladybug
+  ladybug
+  ladybugs
 # ladydom
 # ladyfish
 # ladyfly
@@ -42220,7 +42821,8 @@
 # lemel
 # lemma
 # lemmata
-# lemming
+  lemming
+  lemmings
 # lemmitis
 # Lemmus
 # Lemna
@@ -42235,7 +42837,7 @@
 # Lemosi
 # lempira
 # Lemuel
-# lemur
+  lemur
 # lemures
 # Lemuria
 # Lemurian
@@ -42243,6 +42845,7 @@
 # lemurid
 # lemurine
 # lemuroid
+  lemurs
 # Len
 # Lena
 # lenad
@@ -42979,6 +43582,7 @@
 # lionel
 # lioness
 # lionet
+  lionfish
 # lionhood
 # lionism
 # lionize
@@ -43263,7 +43867,8 @@
 # Lobosa
 # lobose
 # lobotomy
-# lobster
+  lobster
+  lobsters
 # lobtail
 # lobular
 # lobulate
@@ -44781,6 +45386,7 @@
 # manal
 # manas
   manatee
+  manatees
 # manatine
 # manatoid
 # Manatus
@@ -45609,6 +46215,7 @@
 # Mayeye
 # Mayfair
 # mayfish
+  mayfly
 # Mayfowl
 # mayhap
 # mayhem
@@ -46426,7 +47033,7 @@
 # micasize
 # micate
 # mication
-# mice
+  mice
 # micellar
 # micelle
 # Michabo
@@ -46787,7 +47394,7 @@
 # minium
 # miniver
 # minivet
-# mink
+  mink
 # minkery
 # minkish
 # Minkopi
@@ -47394,7 +48001,7 @@
 # moldwarp
 # moldy
 # Mole
-# mole
+  mole
 # molecast
 # molecula
 # molecule
@@ -47404,6 +48011,7 @@
 # moleism
 # molelike
 # moler
+  moles
 # moleskin
 # molest
 # molester
@@ -47427,7 +48035,7 @@
 # mollify
 # Mollugo
 # Mollusca
-# mollusk
+  mollusk
 # Molly
 # molly
 # mollycot
@@ -47557,7 +48165,7 @@
 # monkdom
 # monkery
 # monkess
-# monkey
+  monkey
 # monkeyfy
 # monkeyry
 # monkfish
@@ -47632,8 +48240,9 @@
 # monsieur
 # Monsoni
 # monsoon
-# monster
+  monster
 # Monstera
+  monsters
 # Mont
 # montage
 # Montana
@@ -47742,7 +48351,7 @@
 # moorwort
 # moory
 # moosa
-# moose
+  moose
 # moosewob
 # moosey
 # moost
@@ -47975,7 +48584,7 @@
 # mosque
 # mosquish
 # Mosquito
-# mosquito
+  mosquito
   moss
 # mossback
 # mossed
@@ -48005,7 +48614,7 @@
 # moter
 # motet
 # motey
-# moth
+  moth
 # mothed
 # mother
 # mothered
@@ -48090,7 +48699,7 @@
 # mourner
 # mournful
 # mourning
-# mouse
+  mouse
 # Mouseion
 # mousekin
 # mouselet
@@ -49758,10 +50367,11 @@
 # newsreel
 # newsroom
 # newsy
-# newt
+  newt
 # newtake
 # newton
 # Newtonic
+  newts
 # nexal
 # next
 # nextly
@@ -50749,13 +51359,14 @@
 # nurhag
 # nurly
 # nursable
-# nurse
+  nurse
 # nursedom
 # nursekin
 # nurselet
 # nurser
-# nursery
-# nursing
+  nursery
+  nurses
+  nursing
 # nursle
 # nursling
 # nursy
@@ -51123,7 +51734,7 @@
 # octopine
 # octopod
 # Octopoda
-# octopus
+  octopus
 # octoreme
 # octoroon
 # octose
@@ -51978,7 +52589,7 @@
 # Orbulina
 # orby
 # orc
-# Orca
+  Orca
 # Orcadian
 # orcanet
 # orcein
@@ -52275,7 +52886,7 @@
 # osoberry
 # osone
 # osophy
-# osprey
+  osprey
 # ossal
 # ossarium
 # ossature
@@ -52330,7 +52941,7 @@
 # Ostrea
 # ostreger
 # ostreoid
-# ostrich
+  ostrich
 # Ostrya
 # Ostyak
 # Oswald
@@ -52403,8 +53014,9 @@
 # Otozoum
 # ottar
 # Ottawa
-# otter
+  otter
 # otterer
+  otters
 # ottinger
 # Otto
 # otto
@@ -53438,7 +54050,7 @@
 # owght
 # owing
 # owk
-# owl
+  owl
 # owldom
 # owler
 # owlery
@@ -53451,6 +54063,7 @@
 # owlism
 # owllight
 # owllike
+  owls
 # owly
 # own
 # owner
@@ -53578,9 +54191,10 @@
 # Oyana
 # oyapock
 # oyer
-# oyster
+  oyster
 # oystered
 # oysterer
+  oysters
 # Ozan
 # Ozark
 # ozarkite
@@ -54027,13 +54641,14 @@
 # panchway
 # pancreas
 # pand
-# panda
+  panda
 # pandal
 # pandan
 # Pandanus
 # pandaram
 # pandaric
 # Pandarus
+  pandas
 # Pandean
 # pandect
 # pandemia
@@ -54157,7 +54772,8 @@
 # panterer
 # pantheic
 # pantheon
-# panther
+  panther
+  panthers
 # pantheum
 # pantie
 # panties
@@ -54295,7 +54911,7 @@
 # parah
 # paraiba
 # Paraiyan
-# parakeet
+  parakeet
 # parale
 # parallax
 # parallel
@@ -54482,9 +55098,10 @@
 # Parridae
 # parrier
 # parrock
-# parrot
+  parrot
 # parroter
 # parrotry
+  parrots
 # parroty
 # parry
 # parsable
@@ -54874,7 +55491,8 @@
 # peachlet
 # peachy
 # peacoat
-# peacock
+  peacock
+  peacocks
 # peacocky
 # peacod
 # peafowl
@@ -55147,7 +55765,8 @@
 # Pelew
 # pelf
 # Pelias
-# pelican
+  pelican
+  pelicans
 # pelick
 # Pelides
 # pelike
@@ -55250,7 +55869,8 @@
 # penful
 # penghulu
 # pengo
-# penguin
+  penguin
+  penguins
 # penhead
 # penial
 # penide
@@ -56262,13 +56882,14 @@
 # piffle
 # piffler
 # pifine
-# pig
+  pig
 # pigbelly
 # pigdan
 # pigdom
-# pigeon
+  pigeon
 # pigeoner
 # pigeonry
+  pigeons
 # pigface
 # pigfish
 # pigfoot
@@ -56296,6 +56917,7 @@
 # pignut
 # pigpen
 # pigroot
+  pigs
 # pigskin
 # pigsney
 # pigstick
@@ -57013,7 +57635,7 @@
 # platy
 # platyope
 # platypod
-# platypus
+  platypus
 # platysma
 # plaud
 # plaudit
@@ -57534,7 +58156,7 @@
 # poleaxe
 # poleaxer
 # poleburn
-# polecat
+  polecat
 # polehead
 # poleless
 # poleman
@@ -59459,9 +60081,10 @@
 # puffer
 # puffery
 # puffily
-# puffin
+  puffin
 # puffinet
 # puffing
+  puffins
 # Puffinus
 # pufflet
 # puffwig
@@ -59715,8 +60338,9 @@
 # puppify
 # puppily
 # Puppis
-# puppy
+  puppy
 # puppydom
+  puppies
 # puppyish
 # puppyism
 # pupulo
@@ -60030,9 +60654,10 @@
 # Pythios
 # Pythium
 # Pythius
-# python
-# pythonic
+  python
+  pythonic
 # pythonid
+  pythons
 # pyuria
 # pyvuril
 # pyx
@@ -60088,8 +60713,9 @@
 # quagmire
 # quagmiry
 # quahog
-# quail
+  quail
 # quailery
+  quails
 # quaily
 # quaint
 # quaintly
@@ -60478,9 +61104,10 @@
 # rabbin
 # Rabbinic
 # rabbinic
-# rabbit
+  rabbit
 # rabbiter
 # rabbitry
+  rabbits
 # rabbity
 # rabble
 # rabbler
@@ -60752,7 +61379,7 @@
 # Ralph
 # ralph
 # Ram
-# ram
+  ram
 # Rama
 # ramada
 # Ramadoss
@@ -60838,6 +61465,7 @@
 # ramrace
 # ramrod
 # ramroddy
+  rams
 # ramsch
 # Ramsey
 # ramson
@@ -61049,7 +61677,7 @@
 # rastle
 # Rastus
 # rasure
-# rat
+  rat
 # rata
 # ratable
 # ratably
@@ -61098,6 +61726,7 @@
 # ratoon
 # ratooner
 # ratproof
+  rats
 # ratsbane
 # rattage
 # rattail
@@ -61147,7 +61776,7 @@
 # ravelin
 # raveling
 # ravelly
-# raven
+  raven
 # Ravenala
 # ravendom
 # ravener
@@ -61155,7 +61784,7 @@
 # ravenish
 # ravenous
 # ravenry
-# ravens
+  ravens
 # raver
 # Ravi
 # ravigote
@@ -65784,7 +66413,7 @@
 # sawdusty
 # sawed
 # sawer
-# sawfish
+  sawfish
 # sawfly
 # sawhorse
 # sawing
@@ -66289,7 +66918,7 @@
 # Scorpii
 # Scorpiid
 # Scorpio
-# scorpion
+  scorpion
 # Scorpius
 # scorse
 # Scot
@@ -66669,14 +67298,15 @@
 # seagoer
 # seagoing
 # seah
+  seahorse
 # seahound
 # seak
-# seal
+  seal
 # sealable
 # sealant
 # sealch
-# sealed
-# sealer
+  sealed
+  sealer
 # sealery
 # sealess
 # sealet
@@ -66686,6 +67316,7 @@
 # sealing
 # sealless
 # seallike
+  seals
 # sealskin
 # sealwort
 # Sealyham
@@ -67869,10 +68500,11 @@
 # Shari
 # Sharia
 # Sharira
-# shark
+  shark
 # sharkful
 # sharkish
 # sharklet
+  sharks
 # sharky
 # sharn
 # sharnbud
@@ -67977,7 +68609,7 @@
 # sheenful
 # sheenly
 # sheeny
-# sheep
+  sheep
 # sheepify
 # sheepish
 # sheeplet
@@ -68401,12 +69033,13 @@
 # shree
 # shreeve
 # shrend
-# shrew
+  shrew
 # shrewd
 # shrewdly
 # shrewdom
 # shrewdy
 # shrewish
+  shrews
 # shrewly
 # shriek
 # shrieker
@@ -68416,7 +69049,7 @@
 # shrike
 # shrill
 # shrilly
-# shrimp
+  shrimp
 # shrimper
 # shrimpi
 # shrimpy
@@ -69457,11 +70090,12 @@
 # skully
 # skulp
 # skun
-# skunk
+  skunk
 # skunkdom
 # skunkery
 # skunkish
 # skunklet
+  skunks
 # skunktop
 # skunky
 # skuse
@@ -69817,7 +70451,7 @@
 # slot
 # slote
 # sloted
-# sloth
+  sloth
 # slothful
 # slotted
 # slotter
@@ -69858,7 +70492,7 @@
 # sludgy
 # slue
 # sluer
-# slug
+  slug
 # slugabed
 # sluggard
 # slugged
@@ -69867,6 +70501,7 @@
 # sluggish
 # sluggy
 # sluglike
+  slugs
 # slugwood
 # sluice
 # sluicer
@@ -70123,16 +70758,17 @@
 # snaggled
 # snaggy
 # snagrel
-# snail
+  snail
 # snailery
 # snailish
-# snails
+  snails
 # snaily
 # snaith
-# snake
+  snake
 # snakelet
 # snaker
 # snakery
+  snakes
 # snakily
 # snaking
 # snakish
@@ -71199,7 +71835,8 @@
 # sparred
 # sparrer
 # sparring
-# sparrow
+  sparrow
+  sparrows
 # sparrowy
 # sparry
 # sparse
@@ -71425,9 +72062,10 @@
 # spicule
 # spiculum
 # spicy
-# spider
+  spider
 # spidered
 # spiderly
+  spiders
 # spidery
 # spidger
 # spied
@@ -71645,9 +72283,10 @@
 # Spondias
 # spondyl
 # spong
-# sponge
+  sponge
 # sponged
 # sponger
+  sponges
 # Spongiae
 # spongian
 # Spongida
@@ -71982,7 +72621,7 @@
 # squib
 # squibber
 # squiblet
-# squid
+  squid
 # squiddle
 # squidge
 # squidgy
@@ -72813,9 +73452,10 @@
 # storied
 # storier
 # storify
-# stork
+  stork
 # storken
 # storkish
+  storks
 # storm
 # stormer
 # stormful
@@ -73896,7 +74536,7 @@
 # sune
 # sunfall
 # sunfast
-# sunfish
+  sunfish
 # Sung
 # sung
 # sungha
@@ -74174,7 +74814,8 @@
 # swaling
 # swallet
 # swallo
-# swallow
+  swallow
+  swallows
 # swam
 # swami
 # swamp
@@ -74182,7 +74823,7 @@
 # swampish
 # swampy
 # Swamy
-# swan
+  swan
 # swandown
 # swang
 # swangy
@@ -74200,6 +74841,7 @@
 # swannery
 # swannish
 # swanny
+  swans
 # swanskin
 # swanweed
 # swanwort
@@ -77186,13 +77828,15 @@
 # tigelle
 # tigellum
 # tigellus
-# tiger
+  tiger
 # tigereye
 # tigerish
 # tigerism
 # tigerkin
 # tigerly
 # tigernut
+  tigers
+# tigereye
 # tigery
 # Tigger
 # tigger
@@ -79660,7 +80304,7 @@
 # Turkery
 # Turkess
 # Turkey
-# turkey
+  turkey
 # Turki
 # Turkic
 # Turkify
@@ -84142,7 +84786,8 @@
 # vamper
 # vamphorn
   vampire
-# vampiric
+  vampires
+  vampiric
 # vamplate
 # Vampyrum
 # Van
@@ -85030,7 +85675,7 @@
 # violotta
 # violuric
 # Vip
-# viper
+  viper
 # Vipera
 # viperan
 # viperess
@@ -85041,6 +85686,7 @@
 # viperish
 # viperoid
 # viperous
+  vipers
 # vipery
 # viqueen
 # Vira
@@ -85438,7 +86084,8 @@
 # vulpine
 # vulsella
 # Vultur
-# vulture
+  vulture
+  vultures
 # vulturn
 # vulva
 # vulval
@@ -85702,7 +86349,8 @@
 # wally
 # walnut
 # Walpapi
-# walrus
+  walrus
+  walruses
 # walsh
 # Walt
 # walt
@@ -85984,7 +86632,7 @@
 # wasnt
 # Wasoga
 # Wasp
-# wasp
+  wasp
 # waspen
 # wasphood
 # waspily
@@ -86453,11 +87101,12 @@
 # whacker
 # whacking
 # whacky
-# whale
+  whale
 # whaledom
 # whaleman
 # whaler
 # whalery
+  whales
 # whaling
 # whalish
 # whally
@@ -87330,6 +87979,7 @@
 # wolter
 # wolve
 # wolver
+  wolves
 # woman
 # womandom
 # womanish
@@ -87339,7 +87989,8 @@
 # womanize
 # womanly
 # womb
-# wombat
+  wombat
+  wombats
 # wombed
 # womble
 # womby
@@ -87529,8 +88180,8 @@
 # worldly
 # worldway
 # worldy
-# worm
-# wormed
+  worm
+  wormed
 # wormer
 # wormhole
 # wormhood
@@ -87541,6 +88192,7 @@
 # wormlike
 # wormling
 # wormroot
+  worms
 # wormseed
 # wormship
 # wormweed
@@ -88536,6 +89188,7 @@
 # zealousy
   zebra
 # zebraic
+  zebras
 # zebrass
 # Zebrina
 # zebrine
