@@ -15,7 +15,7 @@ American English spellings are used (e.g., "color" instead of "colour").
 Some additional words not present in the original dictionary were added.
 
 ### WARNING
-Curation of the supplied dictionary is not yet finished, so the number of available words is relatively small. I do not recommend using this script to generate passphrases until the entire dictionary has been finished.
+Curation of the supplied dictionary is not yet finished, so the number of available words is relatively small. I do not recommend using this script to generate passphrases until the entire dictionary has been finished. The final dictionary will contain more than 30,000 words. This is enough for a 3/4/5 word passphrase to provide the same information entropy (see below) as a traditional 7/10/12 character password.
 
 ### Non-Secret Dictionary
 Although it seems like giving away the dictionary would lessen the security of passphrases drawn from it, it does not. Consider: when constructing a normal character-based password, you are using the same alphabet that everyone else knows.
@@ -74,17 +74,17 @@ $ python passdict.py 3 20
 
 Picking 3 words with total length of at least 20 characters.
 
-denizen
-agnostic
-hornet
+homework
+braid
+assault
 
-denizen agnostic hornet 
+homework braid assault 
 
-Number of words in dictionary = 5560
-Total length of selected words = 21 characters (23 with separating spaces)
-Entropy (in 5560-word set)                = 37 bits
-Entropy (in 26-character set; w/o spaces) = 99 bits
-Entropy (in 27-character set; w/ spaces)  = 109 bits
+Number of words in dictionary = 7808
+Total length of selected words = 20 characters (22 with separating spaces)
+Entropy (in 7808-word set)                = 39 bits
+Entropy (in 26-character set; w/o spaces) = 94 bits
+Entropy (in 27-character set; w/ spaces)  = 105 bits
 Equivalent password length using 95-character set = 6 characters
   (95-character set includes a-z, A-Z, 0-9, all punctuation marks and space)
 ```
