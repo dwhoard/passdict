@@ -83,7 +83,7 @@ while lswout1 < nmin:
     lswout2 = lswout1+nw-1  # counts the space between each word as an included character
 
 if counter > maxcounter:
-    print('*** ERROR: Cannot find requested words.')
+    print('*** ERROR: Cannot satisfy requested word and/or character count conditions.')
     print('*** ERROR: Try again with fewer words and/or smaller total character count.\n')
 else:
     # output word list in vertical and horizontal format
