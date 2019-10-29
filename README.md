@@ -28,7 +28,7 @@ The enhancements to security provided by a passphrase constructed from a diction
 You can supply your own dictionary file by naming it "passdict.txt" or changing the dictionary name in the script (variable "dictfile").
 The format of the dictionary file is a single column, one word per line.
 Lines preceded by a "#" will be ignored.
-Words that are names or proper nouns are output with a leading capital letter; however, the user can decide whethr or not to use the capital letter or convert it to lower case.
+Words that are names or proper nouns are output with a leading capital letter if they are listed in the dictionary that way; however, the user can decide whether or not to use the capital letter or convert it to lower case.
 In fact, case substitution of any letters in the passphrase can be utilized to increase complexity if desired.
 
 ## Command line arguments: 
