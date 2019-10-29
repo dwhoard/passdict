@@ -16,6 +16,7 @@
 
 # v1.0 - 20190918
 # v1.1 - 20191003: added extra shuffle of words list
+# v1.2 - 20191029: removed forcing lower case of output
 
 
 # import needed packages and routines
@@ -89,8 +90,11 @@ else:
     # output word list in vertical and horizontal format
     swout = ''
     for word in wout:
-       print(word.lower())
-       swout += word.lower()+' '
+#      # these two lines would convert all letters to lower case before outputting    
+#      print(word.lower())
+#      swout += word.lower()+' '
+       print(word)
+       swout += word+' '
     print('\n'+swout+'\n')
 
     # output statistical characteristics of selected words
