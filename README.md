@@ -13,6 +13,9 @@ All words shorter than 3 characters or longer than 8 characters were excluded.
 The remaining words were hand-selected to exclude archaic words, words with difficult spelling, and homonyms ("sound-alike" words).
 American English spellings are used (e.g., "color" instead of "colour").
 Some additional words not present in the original dictionary were added.
+Some non-English words are included if it is judged that they have been sufficiently incorporated into modern English, such that a native speaker might reasonably know those words (e.g., angst, fiesta, kimono).
+Words that are names or proper nouns are output with a leading capital letter if they are listed in the dictionary that way; however, the user can decide whether or not to use the capital letter or convert it to lower case.
+In fact, case substitution of any letters in the passphrase can be utilized to increase complexity if desired.
 
 ### WARNING
 Curation of the supplied dictionary is not yet finished, so the number of available words is relatively small. I do not recommend using this script to generate passphrases until the entire dictionary has been finished. The final dictionary will contain more than 30,000 words. This is enough for a 3/4/5 word passphrase to provide the same information entropy (see below) as a traditional 7/10/12 character password.
@@ -28,8 +31,6 @@ The enhancements to security provided by a passphrase constructed from a diction
 You can supply your own dictionary file by naming it "passdict.txt" or changing the dictionary name in the script (variable "dictfile").
 The format of the dictionary file is a single column, one word per line.
 Lines preceded by a "#" will be ignored.
-Words that are names or proper nouns are output with a leading capital letter if they are listed in the dictionary that way; however, the user can decide whether or not to use the capital letter or convert it to lower case.
-In fact, case substitution of any letters in the passphrase can be utilized to increase complexity if desired.
 
 ## Command line arguments: 
 nw    = number of words to select (defaults to 3 if not provided)
