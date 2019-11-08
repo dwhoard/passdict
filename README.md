@@ -9,16 +9,16 @@ The original dictionary is Webster's Second International Dictionary (1934), whi
 /usr/share/dict/web2
 ```
 in the macOS operating system.
-All words shorter than 3 characters or longer than 8 characters were excluded.
-The remaining words were hand-selected to exclude archaic words, words with difficult spelling, and homonyms ("sound-alike" words).
+All words shorter than 3 characters were excluded.
+The remaining words were hand-selected to exclude archaic words, words with difficult spellings, and homonyms ("sound-alike" words).
 American English spellings are used (e.g., "color" instead of "colour").
 Some additional ("modern") words not present in the original dictionary were added (e.g., hashtag).
-Some non-English words were also included if it is judged that they have been sufficiently incorporated into modern English, such that a native speaker might reasonably know those words (e.g., angst, fiesta, kimono).
+Some non-English words were also included if they have been sufficiently incorporated into modern English, such that a native speaker might reasonably know those words (e.g., angst, fiesta, kimono).
 Words that are names or proper nouns are output with a leading capital letter if they are listed in the dictionary that way (e.g., Belinda, Howard, Canada); however, the user can decide whether or not to use the capital letter or convert it to lower case.
 In fact, case substitution of any letters in the passphrase can be utilized to increase complexity if desired.
 
 ### WARNING
-Curation of the supplied dictionary is not yet finished, so the number of available words is relatively small. I do not recommend using this script to generate passphrases until the entire dictionary has been finished. The final dictionary will contain more than 30,000 words. This is enough for a 3/4/5 word passphrase to provide the same information entropy (see below) as a traditional 7/10/12 character password.
+Curation of the supplied dictionary is not yet finished, so the number of available words is relatively small. I do not recommend using this script to generate passphrases until the entire dictionary has been finished. The final dictionary will contain more than 30,000 words with length of 9 letters or less (and additional, longer words). This is enough for a 3/4/5 word passphrase to provide the same information entropy (see below) as a traditional 7/10/12 character password.
 
 ### Non-Secret Dictionary
 Although it seems like giving away the dictionary would lessen the security of passphrases drawn from it, it does not. Consider: when constructing a normal character-based password, you are using the same alphabet that everyone else knows.
@@ -35,13 +35,16 @@ Lines preceded by a "#" will be ignored.
 ## Command line arguments: 
 nw    = number of words to select (defaults to 3 if not provided)
 
+nl    = maximum number of letters per word (minimum is always 3)
+
 nmin  = minimum total number of characters in words (excluding separating spaces; defaults to 18 if not provided)
 
 
 ## Example:
-The following command would return 4 randomly selected words from the dictionary file totalling at least 25 characters.
+The following command would return 4 randomly selected words from the dictionary file with at most 8 letters per word and totalling at least 25 letters.
+
 ```
-python passdict.py 4 25
+python passdict.py 4 8 25
 ```
 
 ## Passphrase Entropy
@@ -72,9 +75,10 @@ On average, a brute force attacker would have to try half of the possible combin
 ## Script Output
 Sample output from the script is shown below.
 ```
-$ python passdict.py 3 20
+$ python passdict.py 3 8 20
 
-Picking 3 words with total length of at least 20 characters.
+Picking 3 words with maximum length of 8 letters per word
+and total length of at least 20 letters.
 
 homework
 braid
