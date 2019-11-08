@@ -4,12 +4,13 @@
 
 # Command line arguments: 
 #    nw    = number of words to select
+#    nl    = maximum number of letters per word (minimum is always 3)
 #    nmin  = minimum total number of characters in words (excluding separating spaces)
 
 # Example:
-# The following command would return 4 randomly selected words from the dictionary file totalling at least 25 characters.
+# The following command would return 4 randomly selected words from the dictionary file with at most 8 letters per word and totalling at least 25 letters.
 #
-#     python passdict.py 4 25
+#     python passdict.py 4 8 25
 # 
 
 # D. W. Hoard
@@ -17,6 +18,7 @@
 # v1.0 - 20190918
 # v1.1 - 20191003: added extra shuffle of words list
 # v1.2 - 20191029: removed forcing lower case of output
+# v2.0 - 20191103: added maximum letters per word selection
 
 
 # import needed packages and routines
@@ -28,7 +30,9 @@ from math import ceil
 
 # DEFAULT VALUE: pick this many words in each set
 nw=3
-# DEFAULT VALUE: force word sets to have at least this many characters in total
+# DEFAULT VALUE: each word has at most this many letters
+nl=8
+# DEFAULT VALUE: force word sets to have at least this many letters in total
 nmin=11
 
 # dictionary file name
@@ -38,20 +42,28 @@ dictfile = 'passdict.txt'
 if len(sys.argv) > 1:
     nw=int(sys.argv[1])
 if len(sys.argv) > 2:
-    nmin=int(sys.argv[2])
+    nl=int(sys.argv[2])
 if len(sys.argv) > 3:
+    nmin=int(sys.argv[3])
+if len(sys.argv) > 4:
     print('*** WARNING: Ignoring extra command line arguments')
 
-print('\nPicking '+str(nw)+' words with total length of at least '+str(nmin)+' characters.\n')
+print('\nPicking '+str(nw)+' words with maximum length of '+str(nl)+' letters per word\nand total length of at least '+str(nmin)+' letters.\n')
 
 # read dictionary file 
 # (ignore lines with leading # and remove whitespace and trailing newlines)
-words=[]
+words0=[]
 with open(dictfile, 'r') as f:
     for line in f:
         if not line.lstrip().startswith('#'):
-            words.append(line.lstrip().rstrip('\n'))
+            words0.append(line.lstrip().rstrip('\n'))
 f.closed
+
+# only keep words with <= nl letters
+words=[]
+for word in words0:
+    if len(word) <= nl:
+        words.append(word)
 
 # Scramble list (extra layer of randomization)
 random.shuffle(words)
@@ -59,8 +71,8 @@ random.shuffle(words)
 # how many words in the dictionary?
 Nwords=len(words)
 
-# select words - repeat as long as the total characters is < nmin
-lswout1 = -1 # counter for total characters in selected words
+# select words - repeat as long as the total letters is < nmin
+lswout1 = -1 # counter for total letters in selected words
 counter = 0  # selection loop iteration counter
 maxcounter = 1000  # bail out gracefully if we perform this many loops without success
 while lswout1 < nmin:
@@ -79,13 +91,13 @@ while lswout1 < nmin:
     while len(wout) < nw:
         wout.add(words[r.randint(0,Nwords-1)])
 
-    # count total number of characters in selected words
+    # count total number of letters in selected words
     lswout1 = sum(len(w) for w in wout)
     lswout2 = lswout1+nw-1  # counts the space between each word as an included character
 
 if counter > maxcounter:
-    print('*** ERROR: Cannot satisfy requested word and/or character count conditions.')
-    print('*** ERROR: Try again with fewer words and/or smaller total character count.\n')
+    print('*** ERROR: Cannot satisfy requested word and/or letter count conditions.')
+    print('*** ERROR: Try again with fewer words, more letters per word, and/or smaller total letter count.\n')
 else:
     # output word list in vertical and horizontal format
     swout = ''
@@ -99,7 +111,7 @@ else:
 
     # output statistical characteristics of selected words
     print('Number of words in dictionary =', Nwords)
-    print('Total length of selected words = '+str(lswout1)+' characters ('+str(lswout2)+' with separating spaces)')
+    print('Total length of selected words = '+str(lswout1)+' letters ('+str(lswout2)+' with separating spaces)')
 
     # Entropy of passphrase out of the full dictionary set.
     # Repeating words is not allowed, so 
