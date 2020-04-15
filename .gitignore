@@ -1,7 +1,5 @@
-venv
 DEPRECATED
 README-commands.txt
 makedict.py
 passdict.txt.ORIGINAL
 passdict.txt.WORKING
-.*.swp
