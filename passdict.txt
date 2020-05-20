@@ -1,4 +1,4 @@
-### Version 20200515
+### Version 20200519
 aardvark
 aardvarks
 aardwolf
@@ -21701,6 +21701,16 @@ juvenile
 juxtapose
 juxtaposed
 juxtaposition
+Kafka
+Kafkaesque
+kangaroo
+Kansas
+kappa
+karma
+kayak
+kayaker
+kayakers
+kayaks
 omega
 omicron
 sierra
