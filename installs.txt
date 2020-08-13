@@ -4,5 +4,3 @@
 
 # Additional installs
 # None!
-
-Testing on Windows
