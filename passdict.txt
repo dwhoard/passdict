@@ -1,4 +1,4 @@
-### Version 20201102
+### Version 20201108
 aardvark
 aardvarks
 aardwolf
@@ -27047,6 +27047,11 @@ radioactivity
 radiocarbon
 radioisotope
 radiology
+radiotherapy
+radish
+radishes
+radium
+radius
 Saturday
 Saturn
 sierra
