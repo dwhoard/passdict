@@ -1,4 +1,4 @@
-### Version 20201121
+### Version 20201122
 aardvark
 aardvarks
 aardwolf
@@ -28813,6 +28813,10 @@ semiconductor
 semifinal
 semifinalist
 semifinals
+seminal
+seminar
+seminars
+seminary
 sierra
 Sunday
 tango
