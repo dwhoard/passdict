@@ -1,4 +1,4 @@
-### Version 20210113
+### Version 20210117
 aardvark
 aardvarks
 aardwolf
@@ -30488,6 +30488,33 @@ stowaway
 stowaways
 stowed
 stowing
+straddle
+straddled
+straddling
+straggle
+straggled
+straggling
+straightforward
+strain
+strained
+straining
+strand
+stranded
+stranding
+strange
+strangely
+strangeness
+stranger
+strangers
+strangle
+strangled
+strangler
+strangling
+strangulation
+strap
+strapless
+strapping
+straps
 Sunday
 tango
 theta
