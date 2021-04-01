@@ -1,4 +1,4 @@
-### Version 20210329
+### Version 20210331
 aardvark
 aardvarks
 aardwolf
@@ -1229,6 +1229,7 @@ alcoholics
 alcoholism
 alcove
 alcoves
+Aldebaran
 alder
 alderman
 aldermen
@@ -1248,6 +1249,7 @@ alertness
 Aleutian
 Aleutians
 Alex
+Alexa
 Alexander
 Alexandria
 alexandrite
@@ -1262,8 +1264,11 @@ algebraically
 Algeria
 Algerian
 Algerians
+Algernon
+Algol
 algorithm
 algorithmic
+algorithmically
 algorithms
 Alhambra
 alias
@@ -1274,14 +1279,14 @@ Alicia
 alien
 alienate
 alienated
+alienating
 alienation
 alienist
 aliens
 alight
+alighting
 align
 aligned
-aligner
-aligners
 aligning
 alignment
 alignments
