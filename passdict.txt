@@ -1,4 +1,4 @@
-### Version 20210403
+### Version 20210413
 aardvark
 aardvarks
 aardwolf
@@ -1672,14 +1672,20 @@ anachronous
 anachronously
 anaconda
 anacondas
+anacrusis
 anagram
 anagrams
+anal
 analemma
+analepsis
+analgesia
 analgesic
 analgesics
+anally
 analog
 analogous
 analogously
+analogousness
 analogy
 analyses
 analysis
@@ -1694,12 +1700,18 @@ analyzed
 analyzer
 analyzers
 analyzing
+anamorphic
+anaphylactic
+anaphylaxis
 anarchist
 anarchists
 anarchy
+Anasazi
 Anastasia
 anathema
 anathematic
+anathematical
+anathematically
 anathematize
 anatheme
 anatomic
