@@ -31,7 +31,7 @@ from math import ceil
 # DEFAULT VALUE: pick this many words in each set
 nw=3
 # DEFAULT VALUE: each word has at most this many letters
-nl=8
+nl=9
 # DEFAULT VALUE: force word sets to have at least this many letters in total
 nmin=11
 
