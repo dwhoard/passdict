@@ -1,4 +1,4 @@
-### Version 20210425
+### Version 20210502
 aardvark
 aardvarks
 aardwolf
@@ -2007,14 +2007,15 @@ anthropogenous
 anthropoid
 anthropoidal
 anthropoids
-anthropolithic
 anthropological
 anthropologically
 anthropologist
 anthropologists
 anthropology
+anthropometric
 anthropomorphic
 anthropomorphical
+anthropomorphically
 anthropomorphism
 anthropomorphization
 anthropomorphize
@@ -2022,8 +2023,18 @@ anthropomorphized
 anthropomorphizing
 anthropomorphological
 anthropomorphologically
+anthropomorphology
 anthropomorphous
 anthropomorphously
+anthroponomical
+anthroponomics
+anthropopathic
+anthropopathically
+anthropopathy
+anthropophobia
+anthropophobic
+anthroposociologist
+anthroposociology
 antiaircraft
 antibacterial
 antibiotic
@@ -2032,19 +2043,25 @@ antibodies
 antibody
 antic
 antichrist
+anticipant
 anticipatable
 anticipate
 anticipated
 anticipating
 anticipation
+anticipative
+anticipatively
+anticipatorily
 anticipatory
 anticlimactic
 anticlimax
+anticline
 anticoagulant
 anticoagulants
 antics
 anticyclic
 anticyclone
+anticyclonic
 antidote
 antidotes
 antifreeze
