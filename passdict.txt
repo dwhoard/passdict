@@ -1,4 +1,4 @@
-### Version 20210509
+### Version 20210526
 aardvark
 aardvarks
 aardwolf
@@ -2162,7 +2162,6 @@ any
 anybody
 anyhow
 anyone
-anyplace
 anything
 anyway
 anyways
@@ -2177,8 +2176,10 @@ apartheid
 apartment
 apartments
 apathetic
+apathetically
 apathy
 ape
+aped
 apelike
 aperiodic
 aperiodically
@@ -2187,6 +2188,7 @@ aperture
 apertures
 apes
 apex
+aphagia
 aphasia
 aphasic
 aphelion
@@ -2197,19 +2199,34 @@ aphorisms
 aphrodisiac
 aphrodisiacs
 Aphrodite
+apiaries
 apiary
 apiece
+aping
+apish
+apishly
+apishness
+aplanatic
+aplasia
 aplenty
 aplomb
+apoapsis
 apocalypse
 apocalyptic
+apocalyptically
+apochromatic
 apocryphal
+apocryphally
+apodal
 apogee
 apojove
+apolar
+apolarity
 Apollo
 apologetic
 apologetically
 apologies
+apologist
 apologize
 apologized
 apologizer
@@ -2384,6 +2401,7 @@ aprons
 apropos
 apsidal
 apsidally
+apsis
 apt
 aptitude
 aptly
@@ -10517,6 +10535,10 @@ cyanic
 cyanide
 cyanogen
 cyanotic
+cybernetic
+cyberneticist
+cybernetics
+cybersecurity
 cycle
 cycles
 cyclic
@@ -25607,8 +25629,10 @@ perfumery
 perfunctorily
 perfunctory
 perhaps
+periapsis
 perigee
 perihelion
+perijove
 peril
 perilous
 perilously
