@@ -1,4 +1,4 @@
-### Version 20210527
+### Version 20210529
 aardvark
 aardvarks
 aardwolf
@@ -2438,10 +2438,13 @@ approximately
 approximating
 approximation
 approximations
+apraxia
 apricot
 apricots
 April
 apron
+apronless
+apronlike
 aprons
 apropos
 apsidal
