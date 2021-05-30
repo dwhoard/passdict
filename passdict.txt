@@ -2475,10 +2475,12 @@ Arabian
 Arabic
 arachnid
 arachnids
+arachnoid
 Aramaic
 arbalest
 arbiter
 arbiters
+arbitrable
 arbitrage
 arbitrarily
 arbitrariness
@@ -2491,7 +2493,9 @@ arbitrator
 arbitrators
 arbor
 arboreal
+arboreally
 arbored
+arboretum
 arborist
 arborists
 arbors
@@ -2503,6 +2507,7 @@ arcane
 arcanum
 arch
 archaic
+archaically
 archangel
 archangels
 archbishop
@@ -2511,6 +2516,8 @@ archcriminal
 archcriminals
 archdemon
 archdemons
+archdruid
+archduchess
 archduke
 arched
 archenemies
@@ -2550,6 +2557,7 @@ archiving
 archivist
 archivists
 archly
+archmage
 archness
 archvillain
 archvillains
@@ -2563,11 +2571,18 @@ ardently
 ardor
 arduous
 arduously
+arduousness
+are
 area
 areas
 arena
 arenas
+areola
+areolas
 Argentina
+Argentinian
+Argentinians
+Argo
 argon
 Argonaut
 Argonauts
@@ -2583,7 +2598,10 @@ arguments
 Argus
 arid
 aridity
+aridly
+aridness
 Ariel
+Aries
 arise
 arisen
 arises
@@ -2592,6 +2610,7 @@ aristocrat
 aristocratic
 aristocratically
 aristocrats
+Aristotle
 arithmetic
 arithmetically
 Arizona
@@ -2620,6 +2639,7 @@ armholes
 armies
 armillary
 arming
+armistice
 armlet
 armlets
 armload
@@ -2631,6 +2651,7 @@ armorers
 armoring
 armories
 armory
+armpiece
 armpit
 armpits
 armrest
@@ -2653,6 +2674,7 @@ arpeggio
 arraign
 arraigned
 arraignment
+arraignments
 arrange
 arranged
 arrangement
@@ -25164,6 +25186,7 @@ oven
 over
 overage
 overall
+overarching
 overblown
 overboard
 overcame
