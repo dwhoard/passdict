@@ -19,6 +19,7 @@
 # v1.1 - 20191003: added extra shuffle of words list
 # v1.2 - 20191029: removed forcing lower case of output
 # v2.0 - 20191103: added maximum letters per word selection
+# v2.1 - 20210626: added output of number of filtered words
 
 
 # import needed packages and routines
@@ -110,7 +111,7 @@ else:
     print('\n'+swout+'\n')
 
     # output statistical characteristics of selected words
-    print('Number of words in dictionary =', Nwords)
+    print('Total number of words in dictionary =', Nwords)
     print('Total length of selected words = '+str(lswout1)+' letters ('+str(lswout2)+' with separating spaces)')
 
     # Entropy of passphrase out of the full dictionary set.
