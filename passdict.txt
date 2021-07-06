@@ -1,4 +1,4 @@
-### Version 20210626
+### Version 20210705
 aardvark
 aardvarks
 aardwolf
@@ -1403,6 +1403,7 @@ allaying
 allays
 allegate
 allegated
+allegates
 allegating
 allegation
 allegations
@@ -1411,7 +1412,9 @@ alleged
 allegedly
 alleger
 allegers
+alleges
 allegiance
+allegiances
 allegiant
 allegoric
 allegorical
@@ -1421,6 +1424,7 @@ allegorist
 allegorists
 allegorize
 allegorized
+allegorizes
 allegorizing
 allegory
 allergen
@@ -1431,6 +1435,7 @@ allergist
 allergy
 alleviate
 alleviated
+alleviates
 alleviating
 alleviation
 alley
@@ -1447,6 +1452,7 @@ alliteratively
 allocatable
 allocate
 allocated
+allocates
 allocating
 allocation
 allocations
@@ -1469,6 +1475,7 @@ allowably
 allowance
 allowances
 allowed
+allows
 alloy
 alloys
 allseed
@@ -1476,6 +1483,7 @@ allspice
 allthing
 allude
 alluded
+alludes
 alluding
 allure
 allured
@@ -1559,6 +1567,7 @@ altruistically
 altruists
 aluminize
 aluminized
+aluminizes
 aluminizing
 aluminum
 alumna
@@ -1570,11 +1579,13 @@ always
 amalgam
 amalgamate
 amalgamated
+amalgamates
 amalgamating
 amalgamation
 amalgamization
 amalgamize
 amalgamized
+amalgamizes
 amalgamizing
 amalgams
 Amanda
@@ -1583,6 +1594,7 @@ amanuensis
 Amarillo
 amass
 amassed
+amasses
 amassing
 amateur
 amateurish
@@ -1593,6 +1605,7 @@ amaze
 amazed
 amazedly
 amazement
+amazes
 amazing
 amazingly
 Amazon
@@ -1629,6 +1642,7 @@ ambivalency
 ambivalent
 amble
 ambled
+ambles
 ambling
 amblyopia
 ambrosia
@@ -1636,6 +1650,7 @@ ambulance
 ambulances
 ambulate
 ambulated
+ambulates
 ambulating
 ambulation
 ambulatory
@@ -1649,6 +1664,7 @@ Amelia
 ameliorable
 ameliorate
 ameliorated
+ameliorates
 ameliorating
 amelioration
 amenability
@@ -1715,6 +1731,7 @@ amorphousness
 amortization
 amortize
 amortized
+amortizes
 amortizing
 amount
 amounted
@@ -1739,6 +1756,7 @@ amplification
 amplified
 amplifier
 amplifiers
+amplifies
 amplify
 amplifying
 amplitude
@@ -1752,6 +1770,7 @@ amused
 amusedly
 amusement
 amusements
+amuses
 amusing
 amusingly
 amygdala
@@ -1793,6 +1812,7 @@ analyze
 analyzed
 analyzer
 analyzers
+analyzes
 analyzing
 anamorphic
 anaphylactic
@@ -1859,10 +1879,6 @@ anesthesiologist
 anesthesiology
 anesthetic
 anesthetically
-anesthetization
-anesthetize
-anesthetized
-anesthetizing
 aneurysm
 aneurysms
 anew
@@ -1882,6 +1898,7 @@ Angelus
 anger
 angered
 angering
+angers
 angina
 angiogram
 angioplasty
@@ -1917,6 +1934,7 @@ angstrom
 angstroms
 anguish
 anguished
+anguishes
 anguishing
 angular
 angularity
@@ -1934,6 +1952,7 @@ animals
 animate
 animated
 animatedly
+animates
 animating
 animation
 animator
@@ -1968,6 +1987,7 @@ annexes
 annexing
 annihilate
 annihilated
+annihilates
 annihilating
 annihilation
 annihilator
@@ -1977,6 +1997,7 @@ annotate
 annotated
 annotater
 annotaters
+annotates
 annotating
 annotation
 annotations
@@ -1987,6 +2008,7 @@ announcement
 announcements
 announcer
 announcers
+announces
 announcing
 annoy
 annoyance
@@ -1994,6 +2016,7 @@ annoyances
 annoyed
 annoying
 annoyingly
+annoys
 annual
 annualize
 annualized
@@ -2007,12 +2030,14 @@ annulments
 annulus
 annunciate
 annunciated
+annunciates
 annunciating
 annunciation
 anode
 anodes
 anodize
 anodized
+anodizes
 anodizing
 anodyne
 anodynes
@@ -2021,6 +2046,7 @@ anointed
 anointing
 anointment
 anointments
+anoints
 anomalies
 anomalous
 anomalously
@@ -2056,6 +2082,7 @@ antagonize
 antagonized
 antagonizer
 antagonizers
+antagonizes
 antagonizing
 antarctic
 Antarctica
@@ -2088,6 +2115,7 @@ anthologist
 anthologists
 anthologize
 anthologized
+anthologizes
 anthologizing
 anthology
 Anthony
@@ -2114,6 +2142,7 @@ anthropomorphism
 anthropomorphization
 anthropomorphize
 anthropomorphized
+anthropomorphizes
 anthropomorphizing
 anthropomorphological
 anthropomorphologically
@@ -2141,6 +2170,7 @@ anticipant
 anticipatable
 anticipate
 anticipated
+anticipates
 anticipating
 anticipation
 anticipative
@@ -2325,6 +2355,7 @@ apologize
 apologized
 apologizer
 apologizers
+apologizes
 apologizing
 apology
 Apophis
@@ -2355,6 +2386,7 @@ apostrophic
 apostrophied
 apostrophize
 apostrophized
+apostrophizes
 apostrophizing
 apothecaries
 apothecary
@@ -2368,6 +2400,7 @@ appall
 appalled
 appalling
 appallingly
+appalls
 apparatus
 apparel
 apparent
@@ -2387,6 +2420,7 @@ appearance
 appearances
 appeared
 appearing
+appears
 appeasable
 appeasableness
 appeasably
@@ -2396,6 +2430,7 @@ appeasements
 appeased
 appeaser
 appeasers
+appeases
 appeasing
 appeasingly
 appellant
@@ -2414,10 +2449,12 @@ appended
 appendices
 appending
 appendix
+appends
 appertain
 appertained
 appertaining
 appertainment
+appertains
 appetite
 appetites
 appetize
@@ -2430,6 +2467,7 @@ applaudable
 applaudably
 applauded
 applauding
+applauds
 applause
 apple
 appleblossom
@@ -2466,11 +2504,13 @@ appointees
 appointing
 appointment
 appointments
+appoints
 apportion
 apportioned
 apportioning
 apportionment
 apportionments
+apportions
 appraisal
 appraisals
 appraise
@@ -2479,11 +2519,13 @@ appraisement
 appraisements
 appraiser
 appraisers
+appraises
 appraising
 appreciable
 appreciably
 appreciate
 appreciated
+appreciates
 appreciating
 appreciation
 appreciative
@@ -2494,6 +2536,7 @@ apprehender
 apprehenders
 apprehending
 apprehendingly
+apprehends
 apprehensibility
 apprehensible
 apprehensibly
@@ -2510,12 +2553,14 @@ approachability
 approachable
 approachableness
 approached
+approaches
 approaching
 approachment
 appropriate
 appropriated
 appropriately
 appropriateness
+appropriates
 appropriating
 appropriation
 appropriations
@@ -2524,11 +2569,13 @@ approvals
 approve
 approved
 approvedly
+approves
 approving
 approvingly
 approximate
 approximated
 approximately
+approximates
 approximating
 approximation
 approximations
@@ -2685,6 +2732,7 @@ argue
 argued
 arguer
 arguers
+argues
 arguing
 argument
 argumentative
@@ -2763,6 +2811,7 @@ arousal
 arouse
 aroused
 arousement
+arouses
 arousing
 arpeggio
 arraign
@@ -2775,6 +2824,7 @@ arrangement
 arrangements
 arranger
 arrangers
+arranges
 arranging
 array
 arrayed
@@ -2786,10 +2836,12 @@ arrest
 arrestable
 arrested
 arresting
+arrests
 arrival
 arrivals
 arrive
 arrived
+arrives
 arriving
 arrogance
 arrogancy
@@ -2797,6 +2849,7 @@ arrogant
 arrogantly
 arrogate
 arrogated
+arrogates
 arrogating
 arrogatingly
 arrow
@@ -2873,6 +2926,7 @@ asbestos
 ascend
 ascended
 ascending
+ascends
 ascension
 ascent
 ascertain
@@ -2882,12 +2936,14 @@ ascertainably
 ascertained
 ascertaining
 ascertainment
+ascertains
 ascii
 ascorbic
 ascot
 ascribable
 ascribe
 ascribed
+ascribes
 ascribing
 aseptic
 aseptically
@@ -2917,6 +2973,7 @@ askance
 asked
 askew
 asking
+asks
 aslant
 asleep
 aslumber
@@ -2931,6 +2988,7 @@ aspens
 aspergation
 asperge
 asperged
+asperges
 asperging
 asperity
 asperse
@@ -2948,11 +3006,13 @@ aspirant
 aspirants
 aspirate
 aspirated
+aspirates
 aspirating
 aspiration
 aspirations
 aspire
 aspired
+aspires
 aspirin
 aspirins
 aspiring
@@ -2964,9 +3024,11 @@ assailant
 assailants
 assailed
 assailing
+assails
 assassin
 assassinate
 assassinated
+assassinates
 assassinating
 assassination
 assassinations
@@ -2982,12 +3044,14 @@ assayed
 assayer
 assayers
 assaying
+assays
 assemblage
 assemblages
 assemble
 assembled
 assembler
 assemblers
+assembles
 assemblies
 assembling
 assembly
@@ -2998,6 +3062,7 @@ assemblywomen
 assent
 assented
 assenting
+assents
 assert
 assertable
 asserted
@@ -3007,9 +3072,11 @@ assertions
 assertive
 assertively
 assertiveness
+asserts
 assess
 assessable
 assessed
+assesses
 assessing
 assessment
 assessments
@@ -3026,8 +3093,10 @@ assigned
 assigning
 assignment
 assignments
+assigns
 assimilate
 assimilated
+assimilates
 assimilation
 assimilating
 assist
@@ -3037,6 +3106,7 @@ assistants
 assisted
 assisting
 assistive
+assists
 associate
 associated
 associates
@@ -3052,9 +3122,11 @@ assortment
 assortments
 assuage
 assuaged
+assuages
 assuaging
 assume
 assumed
+assumes
 assuming
 assumption
 assumptions
@@ -3065,6 +3137,7 @@ assure
 assured
 assuredly
 assuredness
+assures
 assuring
 assuringly
 Assyrian
@@ -3085,6 +3158,7 @@ astigmatic
 astigmatism
 astonish
 astonished
+astonishes
 astonishing
 astonishingly
 astonishment
@@ -3093,6 +3167,7 @@ astounded
 astounding
 astoundingly
 astoundment
+astounds
 astraddle
 astral
 astrally
@@ -3194,6 +3269,7 @@ atomization
 atomize
 atomized
 atomizer
+atomizes
 atomizing
 atoms
 atonal
@@ -3222,6 +3298,7 @@ attach
 attachable
 attache
 attached
+attaches
 attaching
 attachment
 attachments
@@ -3237,21 +3314,27 @@ attainableness
 attained
 attaining
 attainment
+attains
 attempt
 attemptability
 attemptable
 attempted
 attempting
+attempts
 attend
 attendance
 attendant
 attendants
+attended
+attending
+attends
 attention
 attentive
 attentively
 attentiveness
 attenuate
 attenuated
+attenuates
 attenuating
 attenuation
 attenuator
@@ -3279,6 +3362,7 @@ attractions
 attractive
 attractively
 attractiveness
+attracts
 attributable
 attribute
 attributes
@@ -3337,6 +3421,7 @@ augmentation
 augmentations
 augmented
 augmenting
+augments
 August
 august
 Augusta
@@ -3370,6 +3455,7 @@ authentic
 authentically
 authenticate
 authenticated
+authenticates
 authenticating
 authentication
 authenticator
@@ -3391,6 +3477,7 @@ authorize
 authorized
 authorizer
 authorizers
+authorizes
 authorizing
 authorless
 authorly
@@ -3459,6 +3546,7 @@ availed
 availing
 availingly
 availment
+avails
 avalanche
 avalanches
 avarice
@@ -3471,6 +3559,7 @@ avenged
 avengeful
 avenger
 avengers
+avenges
 avenging
 avenue
 avenues
@@ -3482,6 +3571,7 @@ aversion
 avert
 averted
 averting
+averts
 avian
 aviaries
 aviary
@@ -3500,13 +3590,16 @@ avoidably
 avoidance
 avoided
 avoiding
+avoids
 avouch
 avouched
+avouches
 avouching
 avow
 avowed
 avowedly
 avowing
+avows
 avuncular
 await
 awaiting
