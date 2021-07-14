@@ -1,4 +1,4 @@
-### Version 20210705
+### Version 20210713
 aardvark
 aardvarks
 aardwolf
@@ -3608,6 +3608,7 @@ awake
 awaken
 awakening
 awakenings
+awakes
 award
 awarded
 awarding
@@ -3615,7 +3616,6 @@ awards
 aware
 awash
 away
-awe
 awesome
 awesomely
 awesomeness
@@ -3632,6 +3632,7 @@ awnings
 awoke
 awry
 axial
+axially
 axiom
 axiomatic
 axioms
@@ -3639,8 +3640,11 @@ axion
 axions
 axis
 axisymmetric
+axisymmetrical
 axle
 axles
+azalea
+azaleas
 azimuth
 azimuthal
 azimuthally
