@@ -1,4 +1,4 @@
-### Version 20210714
+### Version 20210804
 aardvark
 aardvarks
 aardwolf
@@ -1618,6 +1618,7 @@ ambassadorially
 ambassadors
 ambassadorship
 amber
+amberfish
 ambergris
 ambidexterity
 ambidextral
@@ -2738,6 +2739,7 @@ argument
 argumentative
 arguments
 Argus
+argusfish
 arid
 aridity
 aridly
@@ -3820,6 +3822,7 @@ badgeless
 badger
 badgered
 badgering
+badgerlike
 badgers
 badges
 badlands
@@ -3863,16 +3866,19 @@ baker
 bakeries
 bakers
 bakery
+bakes
 bakeshop
 bakeshops
 baking
 balance
 balanced
+balances
 balancing
 balconies
 balcony
 bald
 balder
+balderdash
 baldest
 balding
 baldly
@@ -3886,6 +3892,10 @@ balefully
 balefulness
 Bali
 Balinese
+Balkan
+Balkanization
+Balkanize
+Balkanized
 ballad
 balladeer
 balladeers
@@ -3894,15 +3904,18 @@ ballads
 ballast
 ballerina
 ballerinas
+ballet
 ballista
 ballistic
 ballistically
 ballistics
 balloon
 ballooned
+balloonfish
 ballooning
 balloonist
 balloonists
+balloonlike
 balloons
 ballot
 balloting
@@ -3912,6 +3925,8 @@ ballplayers
 ballroom
 ballrooms
 balm
+balmily
+balminess
 balms
 balmy
 balrog
@@ -3929,6 +3944,7 @@ bamboozled
 bamboozlement
 bamboozler
 bamboozlers
+bamboozles
 bamboozling
 ban
 banal
@@ -3945,7 +3961,10 @@ bandannas
 bandcutter
 banded
 bandersnatch
+bandfish
+bandhook
 bandicoot
+bandicoots
 banding
 bandit
 banditry
@@ -3957,14 +3976,20 @@ bandsaws
 bandstand
 bandstands
 bane
+baneful
+banefully
+banefulness
 bang
 banged
 banging
 Bangkok
 bangle
+bangled
 bangles
+bangs
 banish
 banished
+banishes
 banishing
 banishment
 banjo
@@ -3983,6 +4008,7 @@ banks
 banned
 banner
 bannered
+bannerfish
 banners
 banning
 bannister
