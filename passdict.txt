@@ -1,4 +1,4 @@
-### Version 20211122
+### Version 20211128
 aardvark
 aardvarks
 aardwolf
@@ -4149,11 +4149,13 @@ barracks
 barracuda
 barrage
 barraged
+barrages
 barraging
 barred
 barrel
 barrelmaker
 barrelmakers
+barrelmaking
 barrels
 barren
 barrenly
@@ -4183,6 +4185,7 @@ barterers
 bartering
 barwoman
 barwomen
+barwood
 barycenter
 barycentric
 baryon
@@ -4233,19 +4236,22 @@ basketful
 basketfuls
 basketmaker
 basketmakers
+basketmaking
 basketry
 baskets
+basketware
+basketwood
 basketwork
 basking
 bassist
 bassists
-bassness
 bassoon
 bassoonist
 bassoonists
 bassoons
 bastard
 bastardization
+bastardize
 bastardliness
 bastardly
 bastards
@@ -4261,6 +4267,7 @@ bastions
 bat
 batch
 batches
+batfish
 bath
 bathe
 bathed
@@ -4269,6 +4276,7 @@ bathers
 bathhouse
 bathhouses
 bathing
+bathometer
 bathrobe
 bathrobes
 bathroom
@@ -4285,6 +4293,7 @@ bats
 batsman
 batsmanship
 batsmen
+batswing
 batswoman
 batswomen
 battalion
@@ -4312,6 +4321,7 @@ battleground
 battlegrounds
 battlement
 battlements
+battlemented
 battler
 battlers
 battles
@@ -4319,6 +4329,7 @@ battleship
 battleships
 battlestar
 battlestars
+battlewagon
 battling
 batty
 batwing
@@ -4328,6 +4339,7 @@ Bavaria
 Bavarian
 Bavarians
 bay
+bayberry
 bayed
 baying
 bayonet
@@ -4335,11 +4347,14 @@ bayonets
 bayou
 bayous
 bays
+baywood
+bazaar
 bazooka
 bazookas
 beachcomber
 beachcombers
 beachcombing
+beached
 beachhead
 beachheads
 beacon
@@ -4347,8 +4362,11 @@ beaconless
 beacons
 bead
 beaded
+beadiness
+beading
 beads
 beadwork
+beady
 beagle
 beagles
 beak
@@ -4375,6 +4393,7 @@ beans
 beanstalk
 beanstalks
 bearable
+bearableness
 bearably
 beard
 bearded
@@ -4382,6 +4401,11 @@ beardless
 beards
 bearer
 bearers
+bearhide
+bearish
+bearishly
+bearishness
+bearskin
 beast
 beastlike
 beastliness
@@ -4391,6 +4415,7 @@ beaten
 beater
 beaters
 beatific
+beatification
 beatify
 beating
 beatings
