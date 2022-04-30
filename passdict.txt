@@ -4641,6 +4641,8 @@ behoovingly
 being
 beings
 bejewel
+bejeweled
+bekilted
 belabor
 belabored
 belaboring
@@ -4648,14 +4650,16 @@ belated
 belatedly
 belatedness
 belay
+belayer
+belaying
 belch
 belched
 belches
 belching
-beleague
 beleagued
 beleaguer
 beleaguered
+beleaguerer
 beleaguering
 beleaguerment
 belfries
@@ -32791,6 +32795,8 @@ unbearable
 unbearably
 unbecoming
 unbefitting
+unbeknown
+unbeknownst
 unbendable
 unbidden
 unblinking
