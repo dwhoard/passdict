@@ -1,4 +1,4 @@
-### Version 20211227
+### Version 20220430
 aardvark
 aardvarks
 aardwolf
@@ -4596,6 +4596,7 @@ begoggled
 begonia
 begonias
 begotten
+begowned
 begrime
 begrimed
 begriming
@@ -4616,6 +4617,9 @@ behaved
 behaving
 behavior
 behavioral
+behaviorist
+behavioristic
+behavioristically
 behead
 beheaded
 beheading
