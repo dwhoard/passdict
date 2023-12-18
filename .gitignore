@@ -3,4 +3,5 @@ README-commands.txt
 makedict.py
 passdict.txt.ORIGINAL
 passdict.txt.WORKING
+.DS_Store
 *.swp
