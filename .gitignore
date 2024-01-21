@@ -1,7 +1,7 @@
 DEPRECATED
 README-commands.txt
 makedict.py
-passdict.txt.ORIGINAL
-passdict.txt.WORKING
+dictionary_passdict.txt.ORIGINAL
+dictionary_passdict.txt.WORKING
 .DS_Store
 *.swp
