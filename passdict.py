@@ -49,7 +49,7 @@ if len(sys.argv) > 3:
 if len(sys.argv) > 4:
     print('*** WARNING: Ignoring extra command line arguments')
 
-print('\nPicking '+str(nw)+' words with maximum length of '+str(nl)+' letters per word\nand total length of at least '+str(nmin)+' letters.\n')
+print('\nPicking '+str(nw)+' words with maximum length of '+str(nl)+' letters per word\nand total phrase length of at least '+str(nmin)+' letters.\n')
 
 # read dictionary file 
 # (ignore lines with leading # and remove whitespace and trailing newlines)
