@@ -37,7 +37,7 @@ nl=9
 nmin=11
 
 # dictionary file name
-dictfile = 'passdict.txt'
+dictfile = 'dictionary_passdict.txt'
 
 # check for command line arguments
 if len(sys.argv) > 1:
