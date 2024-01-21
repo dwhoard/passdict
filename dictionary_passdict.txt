@@ -3492,6 +3492,8 @@ barters
 bartering
 barterer
 barterers
+barycenter
+barycentric
 fiesta
 hashtag
 kimono
