@@ -111,7 +111,8 @@ else:
     print('\n'+swout+'\n')
 
     # output statistical characteristics of selected words
-    print('Total number of words in dictionary =', Nwords)
+    print('Total number of words in dictionary =', len(words0))
+    print('Total number of filtered words in dictionary =', Nwords)
     print('Total length of selected words = '+str(lswout1)+' letters ('+str(lswout2)+' with separating spaces)')
 
     # Entropy of passphrase out of the full dictionary set.
